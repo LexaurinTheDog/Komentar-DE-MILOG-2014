@@ -1,0 +1,119 @@
+[
+  {
+    "name": "law",
+    "url": "https://www.gesetze-im-internet.de/milog/xml.zip",
+    "retrieved_at": "2026-10-19T12:37:03.645889+00:00",
+    "http_status": 200,
+    "sha256": "0e8af5c6c3065a64ba2766d3a7489b3352f2b4438f954dd3f01029043f82532b",
+    "file": "review-law.zip",
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:03 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Tue, 30 Jun 2026 19:55:50 GMT",
+      "ETag": "\"2ee7-6557df6347717\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "12007",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    },
+    "xml_sha256": "f9133387b010444d85b54e6473e3f5d57aab3553cc2125422aa2da49cbde51f3",
+    "matches_authoring_xml": true,
+    "builddate": "20260630215549",
+    "metadata": "<metadaten><jurabk>MiLoG</jurabk><amtabk>MiLoG</amtabk><ausfertigung-datum manuell=\"ja\">2014-08-11</ausfertigung-datum><fundstelle typ=\"amtlich\"><periodikum>BGBl I</periodikum><zitstelle>2014, 1348</zitstelle></fundstelle><kurzue>Mindestlohngesetz</kurzue><langue>Gesetz zur Regelung eines allgemeinen Mindestlohns</langue><standangabe checked=\"ja\"><standtyp>Stand</standtyp><standkommentar>Zuletzt geändert durch Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137</standkommentar></standangabe></metadaten>"
+  },
+  {
+    "name": "5-azr-135-16",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/",
+    "retrieved_at": "2026-10-19T12:37:04.664115+00:00",
+    "http_status": 200,
+    "sha256": "e028f9e8f9424aebd94b33a474f467df75787fa71aeff9a14fc1e1f814eb659c",
+    "file": "review-5-azr-135-16.html",
+    "headers": {
+      "Server": "nginx",
+      "Date": "Mon, 19 Oct 2026 12:37:04 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+      "X-Varnish-Cache": "BYPASS",
+      "X-Cacheable": "NO:UNCACHEABLE",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Accept-Ranges": "bytes"
+    },
+    "paragraphs": 55
+  },
+  {
+    "name": "9-azr-162-18",
+    "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-162-18/",
+    "retrieved_at": "2026-10-19T12:37:05.310310+00:00",
+    "http_status": 200,
+    "sha256": "46b4db70166ebb1ac4f00c6f7a1c93c867bb8b901f0f010e652e4e9b3fd859ab",
+    "file": "review-9-azr-162-18.html",
+    "headers": {
+      "Server": "nginx",
+      "Date": "Mon, 19 Oct 2026 12:37:05 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Transfer-Encoding": "chunked",
+      "Connection": "close",
+      "Vary": "Accept-Encoding",
+      "Age": "0",
+      "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
+      "X-Varnish-Cache": "BYPASS",
+      "X-Cacheable": "NO:UNCACHEABLE",
+      "X-Content-Type-Options": "nosniff",
+      "X-XSS-Protection": "1; mode=block",
+      "Accept-Ranges": "bytes"
+    },
+    "paragraphs": 78
+  },
+  {
+    "name": "aentg-14",
+    "url": "https://www.gesetze-im-internet.de/aentg_2009/__14.html",
+    "retrieved_at": "2026-10-19T12:37:05.556127+00:00",
+    "http_status": 200,
+    "sha256": "250f1366e55c7d4c4c6d506842d7479c942c3c72fc8751357d7974a70d36c66c",
+    "file": "review-aentg-14.html",
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:05 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Mon, 19 Oct 2026 00:04:39 GMT",
+      "ETag": "\"12ab-65e2642a2a951\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "4779",
+      "Vary": "Accept-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "text/html",
+      "Connection": "close"
+    }
+  },
+  {
+    "name": "milov5",
+    "url": "https://www.gesetze-im-internet.de/milov5/BJNR10C0A0025.html",
+    "retrieved_at": "2026-10-19T12:37:05.813793+00:00",
+    "http_status": 200,
+    "sha256": "5a224b690ccb5442bb95d3c84871926d1b248e53be0bc83fee7dfda697ffa3bc",
+    "file": "review-milov5.html",
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:05 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Mon, 19 Oct 2026 00:18:52 GMT",
+      "ETag": "\"14ff-65e26756e2012\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "5375",
+      "Vary": "Accept-Encoding",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "text/html",
+      "Connection": "close"
+    }
+  }
+]

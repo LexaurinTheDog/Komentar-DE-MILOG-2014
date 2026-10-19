@@ -1,1851 +1,309 @@
+Tenor
 
-
-
-  
-  
-  
-
-  
-
-	5 AZR 135/16 - Das Bundesarbeitsgericht
-	
-	
-	
-	
-	
-	
-	
-	{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/","url":"https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/","name":"5 AZR 135/16 - Das Bundesarbeitsgericht","isPartOf":{"@id":"https://www.bundesarbeitsgericht.de/#website"},"datePublished":"2016-05-24T22:00:00+00:00","dateModified":"2016-05-24T22:00:00+00:00","breadcrumb":{"@id":"https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/#breadcrumb"},"inLanguage":"de","potentialAction":[{"@type":"ReadAction","target":["https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/"]}]},{"@type":"BreadcrumbList","@id":"https://www.bundesarbeitsgericht.de/entscheidung/5-azr-135-16/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Start","item":"https://www.bundesarbeitsgericht.de/"},{"@type":"ListItem","position":2,"name":"Entscheidungen","item":"https://www.bundesarbeitsgericht.de/entscheidungen/"},{"@type":"ListItem","position":3,"name":"5 AZR 135/16"}]},{"@type":"WebSite","@id":"https://www.bundesarbeitsgericht.de/#website","url":"https://www.bundesarbeitsgericht.de/","name":"Das Bundesarbeitsgericht","description":"Der oberste Gerichtshof für das Gebiet der Arbeitsgerichtsbarkeit","publisher":{"@id":"https://www.bundesarbeitsgericht.de/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bundesarbeitsgericht.de/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"de"},{"@type":"Organization","@id":"https://www.bundesarbeitsgericht.de/#organization","name":"The Federal Labour Court","url":"https://www.bundesarbeitsgericht.de/","logo":{"@type":"ImageObject","inLanguage":"de","@id":"https://www.bundesarbeitsgericht.de/#/schema/logo/image/","url":"https://www.bundesarbeitsgericht.de/wp-content/uploads/2019/09/logo-wide.svg","contentUrl":"https://www.bundesarbeitsgericht.de/wp-content/uploads/2019/09/logo-wide.svg","width":632,"height":146,"caption":"The Federal Labour Court"},"image":{"@id":"https://www.bundesarbeitsgericht.de/#/schema/logo/image/"}}]}
-
-
-
-
-
-img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
-/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
-
-
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-/*# sourceURL=/wp-includes/css/classic-themes.min.css */
-
-
-
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-/*# sourceURL=global-styles-inline-css */
-
-
-
-
-
-
-
-
-
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main h3.tab-title, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main span.tab-title,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content .moove-gdpr-branding-cnt a,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,
-				#moove_gdpr_cookie_modal .cookie-switch .cookie-slider:after, 
-				#moove_gdpr_cookie_modal .cookie-switch .slider:after, 
-				#moove_gdpr_cookie_modal .switch .cookie-slider:after, 
-				#moove_gdpr_cookie_modal .switch .slider:after,
-				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p, 
-				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content p a,
-				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton, 
-				#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h1, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h2, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h3, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h4, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h5, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content h6,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-modal-title .tab-title,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main h3.tab-title, 
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-tab-main span.tab-title,
-				#moove_gdpr_cookie_modal .moove-gdpr-modal-content.moove_gdpr_modal_theme_v2 .moove-gdpr-branding-cnt a {
-				 	font-weight: inherit				}
-			#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#702338;border-color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#702338;border:1px solid #702338}#moove_gdpr_cookie_info_bar span.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar span.change-settings-button:focus,#moove_gdpr_cookie_info_bar button.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar button.change-settings-button:focus{-webkit-box-shadow:0 0 1px 3px #702338;-moz-box-shadow:0 0 1px 3px #702338;box-shadow:0 0 1px 3px #702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button{color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.change-settings-button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:hover,#moove_gdpr_cookie_info_bar span[data-href]>u.change-settings-button,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button.focus-g,span.change-settings-button:focus,button.change-settings-button.focus-g,button.change-settings-button:focus,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button.focus-g,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content u.change-settings-button:focus{color:#702338}#moove_gdpr_cookie_modal .moove-gdpr-branding.focus-g span,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main a.focus-g{color:#702338}#moove_gdpr_cookie_modal.gdpr_lightbox-hide{display:none}
-/*# sourceURL=moove_gdpr_frontend-inline-css */
-
-
-
-
-
-
-
-
-.broken_link, a.broken_link {
-	text-decoration: line-through;
-}
-
-
-
-/* Füge hier Dein eigenes CSS ein */
-span.wpcf7-list-item {display: block;}
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-
-
-      
-  
-  
-  
-  
-  
-  
-  
-  
-      
-  
-
-  
-    @font-face {
-      font-family: "Hind Guntur";
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-light.woff2') format("woff2"),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-light.woff') format('woff');
-      font-display: fallback;
-      font-weight: 300;
-    }
-
-    @font-face {
-      font-family: "Hind Guntur";
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-regular.woff2') format("woff2"),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-regular.woff') format('woff');
-      font-display: fallback;
-      font-weight: 400;
-    }
-
-    @font-face {
-      font-family: "Hind Guntur";
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-semibold.woff2') format("woff2"),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-semibold.woff') format('woff');
-      font-display: fallback;
-      font-weight: 600;
-    }
-
-    @font-face {
-      font-family: "Hind Guntur";
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-bold.woff2') format("woff2"),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/hind-guntur/hindguntur-bold.woff') format('woff');
-      font-display: fallback;
-      font-weight: 700;
-    }
-
-    @font-face {
-      font-family: 'bag';
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.ttf?l6hxhm') format('truetype'),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.woff?l6hxhm') format('woff'),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/bag/bag.svg?l6hxhm#bag') format('svg');
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    @font-face {
-      font-family: 'simple-line-icons';
-      src:
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.ttf?l6hxhm') format('truetype'),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.woff?l6hxhm') format('woff'),
-        url('https://www.bundesarbeitsgericht.de/wp-content/themes/bag/assets/fonts/simple-line-icons/simple-line-icons.woff2?l6hxhm') format('woff2');
-      font-weight: normal;
-      font-style: normal;
-    }
-  
-
-  
-    
-      .slider__dots,
-      .slider--button {
-        display: none;
-      }
-    
-  
-
-
-
-  
-  
-  
-    
-      Zum Hauptmenü
-    
-    
-      Zum Hauptmenü
-    
-    
-      Zum Informationsmenü
-    
-    
-      Zum Inhalt
-    
-    
-      Suchen
-    
-    
-      Suchen
-    
-    
-      Zur Fußzeile
-    
-  
-
-  
-    
-      Informationsmenü 
-    
-    
-      
-    
-    
-      
-        
-          
-            
-              
-              Suche
-            
-          
-        
-      
-              
-          
-                          
-                
-                                    Kontakt
-                
-              
-                          
-                
-                                    Elektronischer Rechtsverkehr und elektronische Gerichtsakte
-                
-              
-                          
-                
-                                     Leichte Sprache
-                
-              
-                          
-                
-                                     Gebärdensprache
-                
-              
-                      
-        
-            Datenschutz
-      
-        
-      
-      
-       DE
-      
-    
-      
-      
-       EN
-      
-    
-        
-      
-                
-          
-            
-                              
-                            Hoher Kontrast
-            
-          
-        
-      
-    
-  
-
-
-
-  
-    
-      
-                  
-              
-      
-        Menu
-        
-          
-          
-          
-          
-        
-      
-    
-  
-  
-  
-          
-                  
-
-            
-              Start            
-
-            
-          
-                  
-
-            
-              Aktuelles und Veranstaltungen            
-
-                          
-                
-              
-              
-              
-                
-                                  
-                                          
-                        Aktuelles
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Veranstaltungen
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              Jahrespressegespräch des Bundesarbeitsgerichts                            
-                          
-                                                  
-                            
-                              Instanzen im Dialog                            
-                          
-                                                  
-                            
-                              Europarechtliches Symposion                            
-                          
-                                                  
-                            
-                              Moot Court Wettbewerb                            
-                          
-                                                  
-                            
-                              Amtseinführung 28.06.2022                            
-                          
-                                                  
-                            
-                              Wanderausstellung                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Sitzungstage
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Sitzungsergebnisse
-                      
-                    
-                    
-                                        
-                  
-                                
-              
-              
-            
-          
-                  
-
-            
-              Das Bundesarbeitsgericht            
-
-                          
-                
-              
-              
-              
-                
-                                  
-                                          
-                        Organisation
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              Die Präsidentin                            
-                          
-                                                  
-                            
-                              Der Vizepräsident                            
-                          
-                                                  
-                            
-                              Die Senate                            
-                          
-                                                  
-                            
-                              Die Richterinnen und Richter                            
-                          
-                                                  
-                            
-                              Die wissenschaftlichen Mitarbeiter                            
-                          
-                                                  
-                            
-                              Die Geschäftsstelle                            
-                          
-                                                  
-                            
-                              Die Bibliothek                            
-                          
-                                                  
-                            
-                              Die Dokumentationsstelle                            
-                          
-                                                  
-                            
-                              Die Verwaltungsabteilung                            
-                          
-                                                  
-                            
-                              Internationale Zusammenarbeit                            
-                          
-                                                  
-                            
-                              Organigramm                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Die Arbeitsgerichtsbarkeit
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              Aufgaben des Bundesarbeitsgerichts                            
-                          
-                                                  
-                            
-                              Zuständigkeit                            
-                          
-                                                  
-                            
-                              Aufbau der Arbeitsgerichtsbarkeit                            
-                          
-                                                  
-                            
-                              Ablauf des arbeitsgerichtlichen Verfahrens                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Geschäftsverteilung
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              Kurzfassung                            
-                          
-                                                  
-                            
-                              Geschäftsverteilungsplan                            
-                          
-                                                  
-                            
-                              Geschäftsordnung                            
-                          
-                                                  
-                            
-                              Organigramm                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Gebäude
-                      
-                    
-                    
-                                        
-                  
-                                
-              
-              
-            
-          
-                  
-
-            
-              Entscheidungen            
-
-            
-          
-                  
-
-            
-              Ihr Besuch bei uns            
-
-                          
-                
-              
-              
-              
-                
-                                  
-                                          
-                        Aktuelle Hinweise
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              So finden Sie uns                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Die Bibliothek
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Sitzungstage
-                      
-                    
-                    
-                                        
-                  
-                                
-              
-              
-            
-          
-                  
-
-            
-              Presse            
-
-                          
-                
-              
-              
-              
-                
-                                  
-                                          
-                        Pressestelle
-                      
-                    
-                    
-                                          
-                                                  
-                            
-                              Jahresberichte                            
-                          
-                                                  
-                            
-                              Pressefotos                            
-                          
-                                              
-                                        
-                  
-                                  
-                                          
-                        Pressemitteilungen
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Sitzungstage
-                      
-                    
-                    
-                                        
-                  
-                                
-              
-              
-            
-          
-                  
-
-            
-              Service            
-
-                          
-                
-              
-              
-              
-                
-                                  
-                                          
-                        Kontakt
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Stellenangebote
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Ausschreibungen
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Pressefotos
-                      
-                    
-                    
-                                        
-                  
-                                  
-                                          
-                        Pressemitteilungen
-                      
-                    
-                    
-                                        
-                  
-                                
-              
-              
-            
-          
-                
-          
-            Suche 
-          
-        
-      
-      
-
-
-  var upcomingEvents = [1792454400,1792627200,1793836800,1794355200,1794873600,1794960000,1795046400,1796169600,1796860800,1797292800,1797379200,1800403200,1800921600,1801008000,1801094400,1801699200,1802822400,1803340800,1803427200,1805328000,1807660800,1808352000,1808784000,1811289600,1814313600];
-  var terminePage = 'https://www.bundesarbeitsgericht.de/aktuelles-und-veranstaltungen/sitzungstage/';
-  
-  
-  
-    
-  
-  
-  
-    Start  Entscheidungen  5 AZR 135/16  
-  
-    
-      
-            
-    5 AZR 135/16    Erfüllung des gesetzlichen Mindestlohns
-  
-        
-                      
-              PDF herunterladen 
-            
-                                      
-                  
-          Parallele Entscheidungen:
-          
-                          
-                
-                  5 AZR 219/16                
-              
-                          
-                
-                  5 AZR 220/16                
-              
-                          
-                
-                  5 AZR 188/16                
-              
-                      
-              
-      
-        
-
-  
-    
-      Details
-      
-    
-    
-      
-        Aktenzeichen
-        5 AZR 135/16
-      
-              
-          ECLI
-          ECLI:DE:BAG:2016:250516.U.5AZR135.16.0
-        
-            
-        Art
-        Urteil
-      
-      
-        Datum
-        25.05.2016
-      
-      
-        Senat
-        5. Senat
-      
-    
-
-  
-      
-    
-  
-  
-    
-      
-        Tenor
-
-
-
-
-1. Die Revision der Klägerin gegen das Urteil des Landesarbeitsgerichts Berlin-Brandenburg vom 12. Januar 2016 – 19 Sa 1851/15 – wird zurückgewiesen.
-
-
-
-
-
+1. Die Revision der Klägerin gegen das Urteil des Landesarbeitsgerichts Berlin-Brandenburg vom 12. Januar 2016 – 19 Sa 1851/15 – wird zurückgewiesen.
 
 2. Die Klägerin hat die Kosten der Revision zu tragen.
-
-
-
 
 Leitsatz
 
 1. Der Mindestlohnanspruch aus § 1 Abs. 1 MiLoG ist ein gesetzlicher Anspruch, der eigenständig neben den arbeits- oder tarifvertraglichen Entgeltanspruch tritt.
+
 2. Erfüllt ist der Anspruch auf den gesetzlichen Mindestlohn, wenn die für den Kalendermonat gezahlte Bruttovergütung den Betrag erreicht, der sich aus der Multiplikation der Anzahl der in diesem Monat tatsächlich geleisteten Arbeitsstunden mit dem gesetzlichen Mindestlohn ergibt. Erfüllung tritt mit Zahlung des Bruttoarbeitsentgelts ein. Auch verspätete Zahlungen können Erfüllungswirkung haben.
 
 Tatbestand
-
 
 1
 
 Die Parteien streiten über die Erfüllung des gesetzlichen Mindestlohnanspruchs durch Sonderzahlungen und die Auswirkungen des Mindestlohngesetzes auf arbeitsvertraglich vereinbarte Entgeltbestandteile.
 
-
-
 2
 
-Die Klägerin ist seit 1992, zuletzt als Mitarbeiterin in der Cafeteria, bei der Beklagten bzw. deren Rechtsvorgängerin in Vollzeit beschäftigt. 
-
-
+Die Klägerin ist seit 1992, zuletzt als Mitarbeiterin in der Cafeteria, bei der Beklagten bzw. deren Rechtsvorgängerin in Vollzeit beschäftigt.
 
 3
 
-Der schriftliche Arbeitsvertrag regelt – inhaltsgleich mit weiteren Arbeitsverträgen der Arbeitnehmer der Beklagten – ua.:
+Der schriftliche Arbeitsvertrag regelt – inhaltsgleich mit weiteren Arbeitsverträgen der Arbeitnehmer der Beklagten – ua.:
 
+„§ 3 Lohn; Gehalt
 
+a)
 
+Der Arbeitnehmer … erhält auf der Basis eines Stundensatzes von 13,50 DM einen Monatslohn … von 2.347,92 DM. Der Lohn … wird jeweils am 10. des Monats für den Vormonat … gezahlt. …
 
-
-        
-
-        
-
-„§ 3 Lohn; Gehalt
-
-
-
-        
-
-a)    
-
-
-Der Arbeitnehmer … erhält auf der Basis eines Stundensatzes von 13,50 DM einen Monatslohn … von 2.347,92 DM. Der Lohn … wird jeweils am 10. des Monats für den Vormonat … gezahlt. …
-
-
-
-        
-
-b)    
-
+b)
 
 … Die über die regelmäßige monatliche betriebsübliche Arbeitszeit hinaus angeordnete und geleistete Arbeit wird mit dem vereinbarten Stundensatz zuzüglich des nachstehenden Zuschlages berechnet. …
 
+Überstundenzuschlag: 25 %
 
+…
 
-        
-        
-
-Überstundenzuschlag: 25 %
-
-
-
-        
-        
-
-…       
-
-
-
-        
-
-c)    
-
+c)
 
 Für die Arbeit an Sonn- und Feiertagen wird ein Zuschlag in nachstehender Höhe des vereinbarten Stundenlohns gezahlt. …
 
+Sonntagszuschlag: 30 %
 
+Feiertagszuschlag: 100 %
 
-        
-        
+d)
 
-Sonntagszuschlag: 30 %
+Für die Arbeit in der Zeit von 20.00 Uhr bis 6.00 Uhr (Nachtarbeit) erhält der Arbeitnehmer … einen Zuschlag in nachstehender Höhe des vereinbarten Stundenlohns.
 
+Nachtzuschlag: 10 %
 
+…
 
-        
-        
+§ 4 Urlaubsgeld, Zuwendung
 
-Feiertagszuschlag: 100 %
+Hat das Arbeitsverhältnis seit Beginn des laufenden Kalenderjahres bestanden, erhält der Arbeitnehmer … zur Lohnzahlung Mai ein zusätzliches Urlaubsgeld des im Fälligkeitsmonat vereinbarten Entgelts entsprechend § 3 des Arbeitsvertrages und mit der Gehaltszahlung im Monat November ein Weihnachtsgeld des zu diesem Zeitpunkt vereinbarten Lohns als Sonderzuwendung in nachstehender Höhe.
 
+Urlaubsgeld: 50 %
 
-
-        
-
-d)    
-
-
-Für die Arbeit in der Zeit von 20.00 Uhr bis 6.00 Uhr (Nachtarbeit) erhält der Arbeitnehmer … einen Zuschlag in nachstehender Höhe des vereinbarten Stundenlohns.
-
-
-
-        
-        
-
-Nachtzuschlag: 10 %
-
-
-
-        
-
-…       
-
-        
-
-
-        
-        
-
-§ 4 Urlaubsgeld, Zuwendung
-
-
-
-        
-        
-
-Hat das Arbeitsverhältnis seit Beginn des laufenden Kalenderjahres bestanden, erhält der Arbeitnehmer … zur Lohnzahlung Mai ein zusätzliches Urlaubsgeld des im Fälligkeitsmonat vereinbarten Entgelts entsprechend § 3 des Arbeitsvertrages und mit der Gehaltszahlung im Monat November ein Weihnachtsgeld des zu diesem Zeitpunkt vereinbarten Lohns als Sonderzuwendung in nachstehender Höhe.
-
-
-
-        
-        
-
-Urlaubsgeld: 50 %
-
-
-
-        
-        
-
-Sonderzuwendung (Weihnachtsgeld): 50 %
-
-
-
-        
-        
+Sonderzuwendung (Weihnachtsgeld): 50 %
 
 Beginnt oder endet das Arbeitsverhältnis im laufenden Kalenderjahr oder hat der Arbeitnehmer … nicht während des gesamten Jahres Bezüge von der Einrichtung erhalten, vermindert sich das zusätzliche Urlaubsgeld sowie die Sonderzuwendung um ein Zwölftel für jeden Kalendermonat, in dem kein Arbeitsverhältnis bestanden oder für den keine Bezüge beansprucht wurden. Eventuell zuviel gezahltes Urlaubsgeld und / oder Sonderzuwendung sind zurückzuzahlen.“
 
-
-
-
 4
 
-Die Beklagte schloss mit dem Betriebsrat am 8./10. Dezember 2014 eine „Betriebsvereinbarung Inkrafttreten Mindestlohngesetz“ (im Folgenden BV Mindestlohn), die ua. bestimmt:
-
-
-
-
-
-        
-
+Die Beklagte schloss mit dem Betriebsrat am 8./10. Dezember 2014 eine „Betriebsvereinbarung Inkrafttreten Mindestlohngesetz“ (im Folgenden BV Mindestlohn), die ua. bestimmt:
 
 „Fälligkeit Sonderzahlungen Urlaubsgeld/Weihnachtsgeld
 
-
-
-        
-        
-
 Arbeitsvertraglich vereinbarte Jahressonderzahlungen (Urlaubsgeld, Weihnachtsgeld) sind in Höhe von 1/12 für jeden Kalendermonat zur betriebsüblichen Fälligkeit der Monatsvergütung zur Zahlung fällig.
-
-
-
-        
 
 Ausschluss betriebsbedingter Kündigungen
 
-
-
-        
-        
-
 Die Arbeitgeberin verpflichtet sich für den Zeitraum vom 01.01.2015 bis zum 31.12.2017 keine betriebsbedingten Kündigungen auszusprechen. …“
-
-
-
 
 5
 
-Mitte Dezember 2014 bot die Beklagte allen Arbeitnehmern Änderungsverträge an, die eine Erhöhung des Monatsentgelts um 2 % ab 1. Januar 2015 und eine anteilige Zahlung des Urlaubs- und Weihnachtsgelds in jedem Monat vorsahen. Die Klägerin lehnte dies, anders als die weit überwiegende Mehrheit der Belegschaft, ab. Ende Januar 2015 teilte die Beklagte der Klägerin mit, die arbeitsvertragliche Regelung zur Rückzahlung zu viel gezahlten Urlaubs- und Weihnachtsgelds entfalle ersatzlos rückwirkend zum Jahresbeginn.
-
-
+Mitte Dezember 2014 bot die Beklagte allen Arbeitnehmern Änderungsverträge an, die eine Erhöhung des Monatsentgelts um 2 % ab 1. Januar 2015 und eine anteilige Zahlung des Urlaubs- und Weihnachtsgelds in jedem Monat vorsahen. Die Klägerin lehnte dies, anders als die weit überwiegende Mehrheit der Belegschaft, ab. Ende Januar 2015 teilte die Beklagte der Klägerin mit, die arbeitsvertragliche Regelung zur Rückzahlung zu viel gezahlten Urlaubs- und Weihnachtsgelds entfalle ersatzlos rückwirkend zum Jahresbeginn.
 
 6
 
-Ab Januar 2015 zahlte die Beklagte der Klägerin neben dem Bruttogehalt iHv. 1.391,36 Euro monatlich weitere jeweils 57,97 Euro brutto, die sie mit „Urlaubsgeld 1/12“ und „Sonderzuwendung 1/12“ abrechnet, insgesamt 1.507,30 Euro brutto. Nacht-, Überstunden-, Sonn- und Feiertagszuschlägen legt die Beklagte den vertraglichen Bruttostundenlohn iHv. 8,00 Euro zugrunde. Im Februar, April und Juni 2015 angefallene Überstunden vergütete die Beklagte ebenfalls auf der Basis von 8,00 Euro brutto/Stunde.
-
-
+Ab Januar 2015 zahlte die Beklagte der Klägerin neben dem Bruttogehalt iHv. 1.391,36 Euro monatlich weitere jeweils 57,97 Euro brutto, die sie mit „Urlaubsgeld 1/12“ und „Sonderzuwendung 1/12“ abrechnet, insgesamt 1.507,30 Euro brutto. Nacht-, Überstunden-, Sonn- und Feiertagszuschlägen legt die Beklagte den vertraglichen Bruttostundenlohn iHv. 8,00 Euro zugrunde. Im Februar, April und Juni 2015 angefallene Überstunden vergütete die Beklagte ebenfalls auf der Basis von 8,00 Euro brutto/Stunde.
 
 7
 
 Nach erfolgloser außergerichtlicher Geltendmachung hat die Klägerin Zahlungs- und Feststellungsklage erhoben. Sie fordert weitere Vergütung für den Zeitraum von Januar bis November 2015.
 
-
-
 8
 
-Die Klägerin meint, die Beklagte zahle den gesetzlichen Mindestlohn nicht in voller Höhe. Bei durchschnittlich 173,33 Stunden im Monat müsse das Bruttomonatsgehalt 1.473,33 Euro betragen. Die Jahressonderzahlungen seien nicht auf den gesetzlichen Mindestlohn anrechenbar. Deren arbeitsvertraglich vereinbarte Fälligkeit könne nicht verändert werden. Die BV Mindestlohn sei unwirksam. Alle Entgeltbestandteile seien auf der Grundlage des Mindestlohns von 8,50 Euro/Stunde zu berechnen, Überstunden mit dem gesetzlichen Mindestlohn zu vergüten.
-
-
+Die Klägerin meint, die Beklagte zahle den gesetzlichen Mindestlohn nicht in voller Höhe. Bei durchschnittlich 173,33 Stunden im Monat müsse das Bruttomonatsgehalt 1.473,33 Euro betragen. Die Jahressonderzahlungen seien nicht auf den gesetzlichen Mindestlohn anrechenbar. Deren arbeitsvertraglich vereinbarte Fälligkeit könne nicht verändert werden. Die BV Mindestlohn sei unwirksam. Alle Entgeltbestandteile seien auf der Grundlage des Mindestlohns von 8,50 Euro/Stunde zu berechnen, Überstunden mit dem gesetzlichen Mindestlohn zu vergüten.
 
 9
 
-Die Klägerin hat – soweit für die Revision relevant – sinngemäß beantragt, 
+Die Klägerin hat – soweit für die Revision relevant – sinngemäß beantragt,
 
+1.
 
+die Beklagte zu verurteilen, der Klägerin 927,21 Euro brutto zuzüglich Zinsen in gestaffelter Höhe zu zahlen,
 
+2.
 
+festzustellen, dass die Abrechnung des Arbeitsverhältnisses durch die Beklagte von 1/12 Urlaubsgeld iHv. 57,97 Euro brutto und 1/12 Sonderzuwendung iHv. 57,97 Euro brutto durch Entgeltabrechnung für den jeweiligen Kalendermonat seit Januar 2015 unwirksam ist,
 
-        
+3.
 
+die Beklagte zu verurteilen, der Klägerin Urlaubsgeld iHv. 736,67 Euro brutto abzüglich bereits gezahlter 695,64 Euro zuzüglich Zinsen in gestaffelter Höhe zu zahlen,
 
-1.    
+4.
 
-
-die Beklagte zu verurteilen, der Klägerin 927,21 Euro brutto zuzüglich Zinsen in gestaffelter Höhe zu zahlen,
-
-
-
-        
-
-2.    
-
-
-festzustellen, dass die Abrechnung des Arbeitsverhältnisses durch die Beklagte von 1/12 Urlaubsgeld iHv. 57,97 Euro brutto und 1/12 Sonderzuwendung iHv. 57,97 Euro brutto durch Entgeltabrechnung für den jeweiligen Kalendermonat seit Januar 2015 unwirksam ist,
-
-
-
-        
-
-3.    
-
-
-die Beklagte zu verurteilen, der Klägerin Urlaubsgeld iHv. 736,67 Euro brutto abzüglich bereits gezahlter 695,64 Euro zuzüglich Zinsen in gestaffelter Höhe zu zahlen,
-
-
-
-        
-
-4.    
-
-
-die Beklagte zu verurteilen, der Klägerin Weihnachtsgeld iHv. 736,67 Euro brutto abzüglich bereits gezahlter 695,64 Euro brutto zuzüglich Zinsen in gestaffelter Höhe zu zahlen.
-
-
-
+die Beklagte zu verurteilen, der Klägerin Weihnachtsgeld iHv. 736,67 Euro brutto abzüglich bereits gezahlter 695,64 Euro brutto zuzüglich Zinsen in gestaffelter Höhe zu zahlen.
 
 10
 
 Die Beklagte hat Klageabweisung beantragt. Der Anspruch auf den gesetzlichen Mindestlohn sei erfüllt, die Zwölftelung der Jahressonderzahlungen zulässig. Zuschläge und Sonderzahlungen würden durch die gesetzliche Mindestlohnregelung nicht berührt und seien weiterhin nach dem arbeitsvertraglich Vereinbarten geschuldet.
 
-
-
 11
 
-Das Arbeitsgericht hat die Klage abgewiesen. Das Landesarbeitsgericht hat die Berufung der Klägerin im Wesentlichen zurückgewiesen und ihr (rechtskräftig) nur Nachtarbeitszuschläge iHv. 0,80 Euro brutto zugesprochen. Mit der vom Landesarbeitsgericht zugelassenen Revision verfolgt die Klägerin ihre Anträge weiter.
-
-
+Das Arbeitsgericht hat die Klage abgewiesen. Das Landesarbeitsgericht hat die Berufung der Klägerin im Wesentlichen zurückgewiesen und ihr (rechtskräftig) nur Nachtarbeitszuschläge iHv. 0,80 Euro brutto zugesprochen. Mit der vom Landesarbeitsgericht zugelassenen Revision verfolgt die Klägerin ihre Anträge weiter.
 
 Entscheidungsgründe
 
-
 12
 
-Die Revision der Klägerin ist unbegründet. Das Landesarbeitsgericht hat die Berufung der Klägerin zu Recht zurückgewiesen. Der Anspruch der Klägerin auf den gesetzlichen Mindestlohn ist erfüllt. Das Mindestlohngesetz hat die arbeitsvertraglich vereinbarten Entgeltbestandteile – wie Sonderzahlungen und Zuschläge für Sonderformen der Arbeit oder Arbeit zu besonderen Zeiten – nicht erhöht. Verzugszinsen kann die Klägerin nicht beanspruchen.
-
-
+Die Revision der Klägerin ist unbegründet. Das Landesarbeitsgericht hat die Berufung der Klägerin zu Recht zurückgewiesen. Der Anspruch der Klägerin auf den gesetzlichen Mindestlohn ist erfüllt. Das Mindestlohngesetz hat die arbeitsvertraglich vereinbarten Entgeltbestandteile – wie Sonderzahlungen und Zuschläge für Sonderformen der Arbeit oder Arbeit zu besonderen Zeiten – nicht erhöht. Verzugszinsen kann die Klägerin nicht beanspruchen.
 
 13
 
 I. Die Klage ist in den Zahlungsanträgen zulässig. Dagegen ist der Feststellungsantrag unzulässig.
 
-
-
 14
 
-1. Die Zahlungsanträge sind zulässig, insbesondere hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO. Sie sind auf konkrete Vergütungsdifferenzen über eine Zeit von elf Monaten gerichtet. Die Klage ist für den streitbefangenen Zeitraum als abschließende Gesamtklage zu verstehen (vgl. BAG 23. September 2015 – 5 AZR 626/13 – Rn. 12).
-
-
+1. Die Zahlungsanträge sind zulässig, insbesondere hinreichend bestimmt iSv. § 253 Abs. 2 Nr. 2 ZPO. Sie sind auf konkrete Vergütungsdifferenzen über eine Zeit von elf Monaten gerichtet. Die Klage ist für den streitbefangenen Zeitraum als abschließende Gesamtklage zu verstehen (vgl. BAG 23. September 2015 – 5 AZR 626/13 – Rn. 12).
 
 15
 
 2. Das Landesarbeitsgericht hat den Feststellungsantrag zutreffend als unzulässig abgewiesen.
 
-
-
 16
 
-a) Die von der Klägerin begehrte Feststellung der Unwirksamkeit der Abrechnung des Urlaubs- und Weihnachtsgelds betrifft kein feststellungsfähiges Rechtsverhältnis iSv. § 256 Abs. 1 ZPO (zu den Anforderungen vgl. BAG 24. Februar 2016 – 7 ABR 23/14 – Rn. 12 mwN). Zwar sind die Gerichte gehalten, Anträge nach Möglichkeit so auszulegen, dass hierdurch eine erkennbar erstrebte Sachentscheidung ermöglicht wird (BAG 25. März 2015 – 5 AZR 874/12 – Rn. 12 mwN). Doch scheitert jede Auslegung – etwa dahingehend, die Fälligkeit der Jahressonderzahlungen solle geklärt werden – am Wortlaut des Antrags.
-
-
+a) Die von der Klägerin begehrte Feststellung der Unwirksamkeit der Abrechnung des Urlaubs- und Weihnachtsgelds betrifft kein feststellungsfähiges Rechtsverhältnis iSv. § 256 Abs. 1 ZPO (zu den Anforderungen vgl. BAG 24. Februar 2016 – 7 ABR 23/14 – Rn. 12 mwN). Zwar sind die Gerichte gehalten, Anträge nach Möglichkeit so auszulegen, dass hierdurch eine erkennbar erstrebte Sachentscheidung ermöglicht wird (BAG 25. März 2015 – 5 AZR 874/12 – Rn. 12 mwN). Doch scheitert jede Auslegung – etwa dahingehend, die Fälligkeit der Jahressonderzahlungen solle geklärt werden – am Wortlaut des Antrags.
 
 17
 
-b) Soweit die Klägerin in diesem Zusammenhang eine Verletzung der Hinweispflicht rügt, genügt die Revisionsbegründung nicht den gesetzlichen Anforderungen (vgl. dazu BAG 6. Januar 2004 – 9 AZR 680/02 – zu II 3 e aa der Gründe, BAGE 109,145). Die Klägerin hat nicht dargelegt, welchen anderen Antrag sie auf welchen Hinweis des Landesarbeitsgerichts gestellt hätte, und auch in der Revisionsinstanz unverändert an dem vom Berufungsgericht als unzulässig beanstandeten Feststellungsantrag festgehalten.
-
-
+b) Soweit die Klägerin in diesem Zusammenhang eine Verletzung der Hinweispflicht rügt, genügt die Revisionsbegründung nicht den gesetzlichen Anforderungen (vgl. dazu BAG 6. Januar 2004 – 9 AZR 680/02 – zu II 3 e aa der Gründe, BAGE 109,145). Die Klägerin hat nicht dargelegt, welchen anderen Antrag sie auf welchen Hinweis des Landesarbeitsgerichts gestellt hätte, und auch in der Revisionsinstanz unverändert an dem vom Berufungsgericht als unzulässig beanstandeten Feststellungsantrag festgehalten.
 
 18
 
 II. Die Klage ist unbegründet.
 
-
-
 19
 
-1. Sie ist bereits unschlüssig, weil die Klägerin ihre Forderung nicht nach den tatsächlich geleisteten Arbeitsstunden, sondern anhand eines monatlichen Stundendurchschnitts begründet hat. Der Anspruch auf den gesetzlichen Mindestlohn entsteht mit jeder geleisteten Arbeitsstunde (§ 1 Abs. 2 iVm. §§ 20, 1 Abs. 1 MiLoG). Dies erfordert die schlüssige Darlegung der tatsächlich geleisteten Arbeitsstunden. Die Behauptung einer aus dem Durchschnitt eines Zeitraums ermittelten Stundenzahl ersetzt diesen Vortrag nicht. Insbesondere wenn in dieser Stundenzahl Zeiten ohne Arbeitsleistung, aber fortbestehendem Vergütungsanspruch (zB Entgeltfortzahlung im Krankheitsfall und an Feiertagen oder Urlaub) enthalten sind, für die das Mindestlohngesetz mangels tatsächlicher Arbeitsleistung keine Ansprüche begründet. Insofern ist Sachvortrag nach den jeweils einschlägigen Normen zu leisten. Der Senat braucht aber nicht auf eine entsprechende Ergänzung des Vortrags der Klägerin hinzuwirken, weil die Zahlungsanträge in jedem Fall unbegründet sind.
-
-
+1. Sie ist bereits unschlüssig, weil die Klägerin ihre Forderung nicht nach den tatsächlich geleisteten Arbeitsstunden, sondern anhand eines monatlichen Stundendurchschnitts begründet hat. Der Anspruch auf den gesetzlichen Mindestlohn entsteht mit jeder geleisteten Arbeitsstunde (§ 1 Abs. 2 iVm. §§ 20, 1 Abs. 1 MiLoG). Dies erfordert die schlüssige Darlegung der tatsächlich geleisteten Arbeitsstunden. Die Behauptung einer aus dem Durchschnitt eines Zeitraums ermittelten Stundenzahl ersetzt diesen Vortrag nicht. Insbesondere wenn in dieser Stundenzahl Zeiten ohne Arbeitsleistung, aber fortbestehendem Vergütungsanspruch (zB Entgeltfortzahlung im Krankheitsfall und an Feiertagen oder Urlaub) enthalten sind, für die das Mindestlohngesetz mangels tatsächlicher Arbeitsleistung keine Ansprüche begründet. Insofern ist Sachvortrag nach den jeweils einschlägigen Normen zu leisten. Der Senat braucht aber nicht auf eine entsprechende Ergänzung des Vortrags der Klägerin hinzuwirken, weil die Zahlungsanträge in jedem Fall unbegründet sind.
 
 20
 
-2. Der Anspruch der Klägerin auf den gesetzlichen Mindestlohn nach § 1 Abs. 1 MiLoG ist durch Erfüllung erloschen.
-
-
+2. Der Anspruch der Klägerin auf den gesetzlichen Mindestlohn nach § 1 Abs. 1 MiLoG ist durch Erfüllung erloschen.
 
 21
 
-a) Die Beklagte hat den Mindestlohnanspruch der Klägerin in der streitgegenständlichen Zeit jedenfalls durch allmonatliche Zahlung des Bruttogehalts und eines Zwölftels der Jahressonderzahlungen erfüllt (§ 362 Abs. 1 BGB).
-
-
+a) Die Beklagte hat den Mindestlohnanspruch der Klägerin in der streitgegenständlichen Zeit jedenfalls durch allmonatliche Zahlung des Bruttogehalts und eines Zwölftels der Jahressonderzahlungen erfüllt (§ 362 Abs. 1 BGB).
 
 22
 
-b) Der Mindestlohnanspruch aus § 1 Abs. 1 MiLoG ist ein gesetzlicher Anspruch, der eigenständig neben den arbeits- oder tarifvertraglichen Entgeltanspruch tritt (hM Riechert/Nimmerjahn MiLoG § 1 Rn. 2; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 4; BT-Drs. 18/1558 S. 34). Das Mindestlohngesetz greift in die Entgeltvereinbarungen der Arbeitsvertragsparteien und anwendbarer Entgelttarifverträge nur insoweit ein, als sie den Anspruch auf Mindestlohn unterschreiten. § 3 MiLoG führt bei Unterschreiten des gesetzlichen Mindestlohns zu einem Differenzanspruch.
-
-
+b) Der Mindestlohnanspruch aus § 1 Abs. 1 MiLoG ist ein gesetzlicher Anspruch, der eigenständig neben den arbeits- oder tarifvertraglichen Entgeltanspruch tritt (hM Riechert/Nimmerjahn MiLoG § 1 Rn. 2; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 4; BT-Drs. 18/1558 S. 34). Das Mindestlohngesetz greift in die Entgeltvereinbarungen der Arbeitsvertragsparteien und anwendbarer Entgelttarifverträge nur insoweit ein, als sie den Anspruch auf Mindestlohn unterschreiten. § 3 MiLoG führt bei Unterschreiten des gesetzlichen Mindestlohns zu einem Differenzanspruch.
 
 23
 
-aa) Anspruch auf gesetzlichen Mindestlohn haben alle Arbeitnehmer, auch wenn ihre durch Arbeits- oder Tarifvertrag geregelte Vergütung über dem gesetzlichen Mindestlohn liegt (HK-MiLoG/Düwell § 1 Rn. 18). Das Mindestlohngesetz schafft in seinem Geltungsbereich eine eigenständige Anspruchsgrundlage für alle Arbeitnehmer (ErfK/Franzen 16. Aufl. § 1 MiLoG Rn. 2; aA Waltermann AuR 2015, 166, 170; HK-MiLoG/Schubert § 20 Rn. 10).
-
-
+aa) Anspruch auf gesetzlichen Mindestlohn haben alle Arbeitnehmer, auch wenn ihre durch Arbeits- oder Tarifvertrag geregelte Vergütung über dem gesetzlichen Mindestlohn liegt (HK-MiLoG/Düwell § 1 Rn. 18). Das Mindestlohngesetz schafft in seinem Geltungsbereich eine eigenständige Anspruchsgrundlage für alle Arbeitnehmer (ErfK/Franzen 16. Aufl. § 1 MiLoG Rn. 2; aA Waltermann AuR 2015, 166, 170; HK-MiLoG/Schubert § 20 Rn. 10).
 
 24
 
-bb) Erreicht die vom Arbeitgeber tatsächlich gezahlte Vergütung den gesetzlichen Mindestlohn nicht, begründet dies von Gesetzes wegen einen Anspruch auf Differenzvergütung, wenn der Arbeitnehmer in der Abrechnungsperiode für die geleisteten Arbeitsstunden im Ergebnis nicht mindestens den in § 1 Abs. 2 Satz 1 MiLoG vorgesehenen Bruttolohn erhält (Riechert/Nimmerjahn MiLoG § 1 Rn. 31; Lembke NZA 2016, 1, 4; vgl. zu einem tariflichen Mindestlohn BAG 8. Oktober 2008 – 5 AZR 8/08 – Rn. 28, BAGE 128, 119).
-
-
+bb) Erreicht die vom Arbeitgeber tatsächlich gezahlte Vergütung den gesetzlichen Mindestlohn nicht, begründet dies von Gesetzes wegen einen Anspruch auf Differenzvergütung, wenn der Arbeitnehmer in der Abrechnungsperiode für die geleisteten Arbeitsstunden im Ergebnis nicht mindestens den in § 1 Abs. 2 Satz 1 MiLoG vorgesehenen Bruttolohn erhält (Riechert/Nimmerjahn MiLoG § 1 Rn. 31; Lembke NZA 2016, 1, 4; vgl. zu einem tariflichen Mindestlohn BAG 8. Oktober 2008 – 5 AZR 8/08 – Rn. 28, BAGE 128, 119).
 
 25
 
-Dabei scheiden längere Berechnungszeiträume als ein Kalendermonat für die Frage, ob ein Anspruch auf Differenzvergütung entstanden ist, aus (Kocher AuR 2015, 173, 175; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 78; aA Waltermann AuR 2015, 166, 171: „zweimonatlich“; wohl auch ErfK/Franzen 16. Aufl. § 1 MiLoG Rn. 8). Denn mit dem Mindestlohngesetz soll den in Vollzeit tätigen Arbeitnehmern ein Monatseinkommen „oberhalb der Pfändungsfreigrenze“ gesichert werden (BT-Drs. 18/1558 S. 28). Um regelmäßigen Zahlungspflichten nachkommen zu können, regelt § 2 Abs. 1 Satz 1 Nr. 2 MiLoG konsequenterweise die Fälligkeit des Mindestlohns spätestens am letzten Bankarbeitstag des Monats, der auf den Monat folgt, in dem die Arbeitsleistung erbracht wurde.
-
-
+Dabei scheiden längere Berechnungszeiträume als ein Kalendermonat für die Frage, ob ein Anspruch auf Differenzvergütung entstanden ist, aus (Kocher AuR 2015, 173, 175; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 78; aA Waltermann AuR 2015, 166, 171: „zweimonatlich“; wohl auch ErfK/Franzen 16. Aufl. § 1 MiLoG Rn. 8). Denn mit dem Mindestlohngesetz soll den in Vollzeit tätigen Arbeitnehmern ein Monatseinkommen „oberhalb der Pfändungsfreigrenze“ gesichert werden (BT-Drs. 18/1558 S. 28). Um regelmäßigen Zahlungspflichten nachkommen zu können, regelt § 2 Abs. 1 Satz 1 Nr. 2 MiLoG konsequenterweise die Fälligkeit des Mindestlohns spätestens am letzten Bankarbeitstag des Monats, der auf den Monat folgt, in dem die Arbeitsleistung erbracht wurde.
 
 26
 
-cc) Der Arbeitgeber hat den Anspruch auf den gesetzlichen Mindestlohn erfüllt, wenn die für einen Kalendermonat gezahlte Bruttovergütung den Betrag erreicht, der sich aus der Multiplikation der Anzahl der in diesem Monat tatsächlich geleisteten Arbeitsstunden mit 8,50 Euro ergibt. Dabei kommt es nicht darauf an, dass der Arbeitgeber den Mindestlohn stets rechtzeitig leistet, auch verspätete Zahlungen können Erfüllungswirkung haben. Dies belegt § 21 Abs. 1 Nr. 9 MiLoG, wonach der Arbeitgeber ordnungswidrig handelt, wenn er den Mindestlohn nicht oder „nicht rechtzeitig zahlt“. Im Übrigen wäre der Anspruch auf den Mindestlohn nicht klagbar, würde man nachträglichen Zahlungen die Erfüllungswirkung absprechen. Leistet der Arbeitgeber den Mindestlohn nach Fälligkeit (§ 2 Abs. 1 MiLoG), kann der Arbeitnehmer Verzugszinsen sowie den Ersatz eines sonstigen Verzugsschadens verlangen, §§ 288, 286 Abs. 2 Nr. 1 BGB.
-
-
+cc) Der Arbeitgeber hat den Anspruch auf den gesetzlichen Mindestlohn erfüllt, wenn die für einen Kalendermonat gezahlte Bruttovergütung den Betrag erreicht, der sich aus der Multiplikation der Anzahl der in diesem Monat tatsächlich geleisteten Arbeitsstunden mit 8,50 Euro ergibt. Dabei kommt es nicht darauf an, dass der Arbeitgeber den Mindestlohn stets rechtzeitig leistet, auch verspätete Zahlungen können Erfüllungswirkung haben. Dies belegt § 21 Abs. 1 Nr. 9 MiLoG, wonach der Arbeitgeber ordnungswidrig handelt, wenn er den Mindestlohn nicht oder „nicht rechtzeitig zahlt“. Im Übrigen wäre der Anspruch auf den Mindestlohn nicht klagbar, würde man nachträglichen Zahlungen die Erfüllungswirkung absprechen. Leistet der Arbeitgeber den Mindestlohn nach Fälligkeit (§ 2 Abs. 1 MiLoG), kann der Arbeitnehmer Verzugszinsen sowie den Ersatz eines sonstigen Verzugsschadens verlangen, §§ 288, 286 Abs. 2 Nr. 1 BGB.
 
 27
 
-dd) Erfüllung iSv. § 362 Abs. 1 BGB tritt beim Anspruch auf den gesetzlichen Mindestlohn – wie in jedem Schuldverhältnis – ein, wenn die geschuldete Leistung bewirkt wird. Diese Leistung liegt in der Zahlung des Bruttoarbeitsentgelts, denn der gesetzliche Mindestlohn ist das als Gegenleistung für die Arbeit (mindestens) zu erbringende Entgelt.
-
-
+dd) Erfüllung iSv. § 362 Abs. 1 BGB tritt beim Anspruch auf den gesetzlichen Mindestlohn – wie in jedem Schuldverhältnis – ein, wenn die geschuldete Leistung bewirkt wird. Diese Leistung liegt in der Zahlung des Bruttoarbeitsentgelts, denn der gesetzliche Mindestlohn ist das als Gegenleistung für die Arbeit (mindestens) zu erbringende Entgelt.
 
 28
 
-(1) Der Gesetzesbegriff des Mindestlohns bedarf der Auslegung. Maßgebend ist dafür der in der Norm zum Ausdruck gekommene objektivierte Wille des Gesetzgebers, wie er sich aus dem Wortlaut der Vorschrift und dem Sinnzusammenhang ergibt, in den die Regelung hineingestellt ist. Der Erfassung des objektiven Willens des Gesetzgebers dienen die anerkannten Methoden der Gesetzesauslegung aus dem Wortlaut der Norm, der Systematik, ihrem Sinn und Zweck sowie aus den Gesetzesmaterialien und der Entstehungsgeschichte (st. Rspr., vgl. nur BVerfG 19. März 2013 – 2 BvR 2628/10, 2 BvR 2883/10, 2 BvR 2155/11 – Rn. 66, BVerfGE 133, 168).
-
-
+(1) Der Gesetzesbegriff des Mindestlohns bedarf der Auslegung. Maßgebend ist dafür der in der Norm zum Ausdruck gekommene objektivierte Wille des Gesetzgebers, wie er sich aus dem Wortlaut der Vorschrift und dem Sinnzusammenhang ergibt, in den die Regelung hineingestellt ist. Der Erfassung des objektiven Willens des Gesetzgebers dienen die anerkannten Methoden der Gesetzesauslegung aus dem Wortlaut der Norm, der Systematik, ihrem Sinn und Zweck sowie aus den Gesetzesmaterialien und der Entstehungsgeschichte (st. Rspr., vgl. nur BVerfG 19. März 2013 – 2 BvR 2628/10, 2 BvR 2883/10, 2 BvR 2155/11 – Rn. 66, BVerfGE 133, 168).
 
 29
 
-Ausgehend von dem in § 1 Abs. 1 MiLoG verwendeten Begriff des Mindestlohns und der in § 1 Abs. 2 Satz 1 MiLoG bestimmten Höhe in Form eines Bruttobetrags, handelt es sich um eine Bruttoentgeltschuld des Arbeitgebers. Dabei ist es unerheblich, dass der Gesetzgeber – im Unterschied zu anderen arbeitsrechtlichen Regelungen – nicht den Begriff „Entgelt“ (vgl. zB § 10 Abs. 1 Satz 5 AÜG „Arbeitsentgelt“, § 5 Satz 1 Nr. 1 AEntG „Mindestentgeltsätze“), sondern „Lohn“ verwendet. Diese nicht mehr zeitgemäße, auf die Vergütung gewerblicher Arbeitnehmer abstellende Terminologie erklärt sich mit dem Sprachgebrauch in der politischen Diskussion vor Verabschiedung des Gesetzes (vgl. Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 7). Eine Beschränkung des Geltungsbereichs auf Arbeiter, die noch im Stundenlohn vergütet werden, war und ist nicht gewollt. Es sollten umfassend alle Arbeitnehmer vor den Folgen einer unangemessen niedrigen Vergütung geschützt werden. Dieser in den Gesetzesmaterialien zum Ausdruck kommende Zweck zielt darauf ab, jedem Arbeitnehmer ein existenzsicherndes Monatseinkommen zu gewährleisten (BT-Drs. 18/1558 S. 28). Diesem Ziel entsprechend fordern §§ 1 und 2 MiLoG mit dem Begriff der „Zahlung“ und der Nennung eines Eurobetrags in „brutto“ eine Entgeltleistung in Form von Geld (Riechert/Nimmerjahn MiLoG § 1 Rn. 81 ff.; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 127; Sittard RdA 2015, 99, 105).
-
-
+Ausgehend von dem in § 1 Abs. 1 MiLoG verwendeten Begriff des Mindestlohns und der in § 1 Abs. 2 Satz 1 MiLoG bestimmten Höhe in Form eines Bruttobetrags, handelt es sich um eine Bruttoentgeltschuld des Arbeitgebers. Dabei ist es unerheblich, dass der Gesetzgeber – im Unterschied zu anderen arbeitsrechtlichen Regelungen – nicht den Begriff „Entgelt“ (vgl. zB § 10 Abs. 1 Satz 5 AÜG „Arbeitsentgelt“, § 5 Satz 1 Nr. 1 AEntG „Mindestentgeltsätze“), sondern „Lohn“ verwendet. Diese nicht mehr zeitgemäße, auf die Vergütung gewerblicher Arbeitnehmer abstellende Terminologie erklärt sich mit dem Sprachgebrauch in der politischen Diskussion vor Verabschiedung des Gesetzes (vgl. Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 7). Eine Beschränkung des Geltungsbereichs auf Arbeiter, die noch im Stundenlohn vergütet werden, war und ist nicht gewollt. Es sollten umfassend alle Arbeitnehmer vor den Folgen einer unangemessen niedrigen Vergütung geschützt werden. Dieser in den Gesetzesmaterialien zum Ausdruck kommende Zweck zielt darauf ab, jedem Arbeitnehmer ein existenzsicherndes Monatseinkommen zu gewährleisten (BT-Drs. 18/1558 S. 28). Diesem Ziel entsprechend fordern §§ 1 und 2 MiLoG mit dem Begriff der „Zahlung“ und der Nennung eines Eurobetrags in „brutto“ eine Entgeltleistung in Form von Geld (Riechert/Nimmerjahn MiLoG § 1 Rn. 81 ff.; Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 127; Sittard RdA 2015, 99, 105).
 
 30
 
-Der Mindestlohn beträgt nach § 1 Abs. 2 Satz 1 MiLoG 8,50 Euro brutto „je Zeitstunde“. Das Gesetz macht den Anspruch nicht von der zeitlichen Lage der Arbeit oder den mit der Arbeitsleistung verbundenen Umständen oder Erfolgen abhängig (vgl. Lembke NZA 2015, 70, 76). Die Normierung eines angemessenen Verhältnisses von Arbeitsleistung und Arbeitsentgelt bezweckt die Existenzsicherung durch Arbeitseinkommen als Ausdruck der Menschenwürde (Art. 1 Abs. 1 Satz 1 GG), die letztlich auch die sozialen Sicherungssysteme entlasten soll (BT-Drs. 18/1558 S. 28; Schaub/Vogelsang ArbR-HdB 16. Aufl. § 66 Rn. 2; Sittard NZA 2015, 78, 79 f.; Greiner/Strippelmann BB 2015, 949, 950; Jares DB 2015, 307, 309; Heuschmid/Hlava NJW 2015, 1719, 1722).
-
-
+Der Mindestlohn beträgt nach § 1 Abs. 2 Satz 1 MiLoG 8,50 Euro brutto „je Zeitstunde“. Das Gesetz macht den Anspruch nicht von der zeitlichen Lage der Arbeit oder den mit der Arbeitsleistung verbundenen Umständen oder Erfolgen abhängig (vgl. Lembke NZA 2015, 70, 76). Die Normierung eines angemessenen Verhältnisses von Arbeitsleistung und Arbeitsentgelt bezweckt die Existenzsicherung durch Arbeitseinkommen als Ausdruck der Menschenwürde (Art. 1 Abs. 1 Satz 1 GG), die letztlich auch die sozialen Sicherungssysteme entlasten soll (BT-Drs. 18/1558 S. 28; Schaub/Vogelsang ArbR-HdB 16. Aufl. § 66 Rn. 2; Sittard NZA 2015, 78, 79 f.; Greiner/Strippelmann BB 2015, 949, 950; Jares DB 2015, 307, 309; Heuschmid/Hlava NJW 2015, 1719, 1722).
 
 31
 
-(2) Bei einer Geldschuld wird die geschuldete Leistung mangels anderer Vereinbarung nur dann bewirkt, wenn der Gläubiger den Geldbetrag, den er beanspruchen kann, endgültig zur freien Verfügung übereignet oder überwiesen erhält. Darf er den Betrag nicht behalten, tritt der Leistungserfolg nicht ein (vgl. BGH 23. Januar 1996 – XI ZR 75/95 – zu 1 der Gründe; Jauernig/Stürner BGB 16. Aufl. § 362 Rn. 1; Staudinger/Olzen (2016) § 362 BGB Rn. 27). Daher erfüllt der Arbeitgeber den Anspruch auf den gesetzlichen Mindestlohn durch die im arbeitsvertraglichen Austauschverhältnis erbrachten Entgeltzahlungen nur, soweit diese dem Arbeitnehmer endgültig verbleiben.
-
-
+(2) Bei einer Geldschuld wird die geschuldete Leistung mangels anderer Vereinbarung nur dann bewirkt, wenn der Gläubiger den Geldbetrag, den er beanspruchen kann, endgültig zur freien Verfügung übereignet oder überwiesen erhält. Darf er den Betrag nicht behalten, tritt der Leistungserfolg nicht ein (vgl. BGH 23. Januar 1996 – XI ZR 75/95 – zu 1 der Gründe; Jauernig/Stürner BGB 16. Aufl. § 362 Rn. 1; Staudinger/Olzen (2016) § 362 BGB Rn. 27). Daher erfüllt der Arbeitgeber den Anspruch auf den gesetzlichen Mindestlohn durch die im arbeitsvertraglichen Austauschverhältnis erbrachten Entgeltzahlungen nur, soweit diese dem Arbeitnehmer endgültig verbleiben.
 
 32
 
-(3) Gilt somit ein umfassender Entgeltbegriff, sind alle im Synallagma stehenden Geldleistungen des Arbeitgebers geeignet, den Mindestlohnanspruch des Arbeitnehmers zu erfüllen. Von den im arbeitsvertraglichen Austauschverhältnis erbrachten Entgeltzahlungen des Arbeitgebers (vgl. Bayreuther NZA 2014, 865, 869; Lembke NZA 2015, 70, 76) fehlt folglich nur solchen Zahlungen die Erfüllungswirkung, die der Arbeitgeber ohne Rücksicht auf eine tatsächliche Arbeitsleistung des Arbeitnehmers erbringt oder die auf einer besonderen gesetzlichen Zweckbestimmung (zB § 6 Abs. 5 ArbZG, der einen Zuschlag auf das dem Arbeitnehmer zustehende Bruttoarbeitsentgelt vorsieht, vgl. BAG 16. April 2014 – 4 AZR 802/11 – Rn. 51, BAGE 148, 68) beruhen. Letzteres folgt aus der Gleichrangigkeit der Normen des Bundesrechts. Ist eine Zuordnung der Zahlung erforderlich, finden die Regelungen des § 366 BGB Anwendung (vgl. Thüsing/Greiner MiLoG 2. Aufl. § 3 Rn. 13; aA wohl Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 82 ff.).
-
-
+(3) Gilt somit ein umfassender Entgeltbegriff, sind alle im Synallagma stehenden Geldleistungen des Arbeitgebers geeignet, den Mindestlohnanspruch des Arbeitnehmers zu erfüllen. Von den im arbeitsvertraglichen Austauschverhältnis erbrachten Entgeltzahlungen des Arbeitgebers (vgl. Bayreuther NZA 2014, 865, 869; Lembke NZA 2015, 70, 76) fehlt folglich nur solchen Zahlungen die Erfüllungswirkung, die der Arbeitgeber ohne Rücksicht auf eine tatsächliche Arbeitsleistung des Arbeitnehmers erbringt oder die auf einer besonderen gesetzlichen Zweckbestimmung (zB § 6 Abs. 5 ArbZG, der einen Zuschlag auf das dem Arbeitnehmer zustehende Bruttoarbeitsentgelt vorsieht, vgl. BAG 16. April 2014 – 4 AZR 802/11 – Rn. 51, BAGE 148, 68) beruhen. Letzteres folgt aus der Gleichrangigkeit der Normen des Bundesrechts. Ist eine Zuordnung der Zahlung erforderlich, finden die Regelungen des § 366 BGB Anwendung (vgl. Thüsing/Greiner MiLoG 2. Aufl. § 3 Rn. 13; aA wohl Bayreuther in Thüsing MiLoG 2. Aufl. § 1 Rn. 82 ff.).
 
 33
 
-c) Danach sind die Mindestlohnansprüche der Klägerin in den Kalendermonaten Januar bis November 2015 erfüllt. Denn neben dem monatlichen Bruttogehalt kommt auch den vorbehaltlos und unwiderruflich in jedem Kalendermonat zu 1/12 geleisteten Jahressonderzahlungen Erfüllungswirkung zu. Sie sind eine im arbeitsvertraglichen Austauschverhältnis stehende Gegenleistung des Arbeitgebers für die vom Arbeitnehmer erbrachte Arbeit. Denn nach § 4 Arbeitsvertrag mindern sie sich um jeweils ein Zwölftel für Kalendermonate ohne Entgeltanspruch. Einer besonderen gesetzlichen Zweckbestimmung unterliegen die Jahressonderzahlungen nicht. Eine Rückforderung ist der Beklagten aufgrund ihrer vorprozessualen Erklärung vom Januar 2015 verwehrt.
-
-
+c) Danach sind die Mindestlohnansprüche der Klägerin in den Kalendermonaten Januar bis November 2015 erfüllt. Denn neben dem monatlichen Bruttogehalt kommt auch den vorbehaltlos und unwiderruflich in jedem Kalendermonat zu 1/12 geleisteten Jahressonderzahlungen Erfüllungswirkung zu. Sie sind eine im arbeitsvertraglichen Austauschverhältnis stehende Gegenleistung des Arbeitgebers für die vom Arbeitnehmer erbrachte Arbeit. Denn nach § 4 Arbeitsvertrag mindern sie sich um jeweils ein Zwölftel für Kalendermonate ohne Entgeltanspruch. Einer besonderen gesetzlichen Zweckbestimmung unterliegen die Jahressonderzahlungen nicht. Eine Rückforderung ist der Beklagten aufgrund ihrer vorprozessualen Erklärung vom Januar 2015 verwehrt.
 
 34
 
-3. Die Klägerin hat keinen Anspruch auf erhöhte Jahressonderzahlungen. Diese sind nicht auf der Grundlage des aktuellen Mindestlohns zu berechnen. Nach § 4 Arbeitsvertrag betragen Urlaubs- und Weihnachtsgeld jeweils 50 % des „vereinbarten Entgelts“ bzw. des „vereinbarten Lohns“. Das Landesarbeitsgericht ist deshalb zutreffend davon ausgegangen, die Berechnung richte sich nach der in § 3 Arbeitsvertrag bestimmten Vergütung. Der Wortlaut der Vereinbarung lässt keinen anderen Schluss zu. Das Mindestlohngesetz hat daran nichts geändert. Der gesetzliche Mindestlohn tritt neben den arbeits- bzw. tarifvertraglichen Vergütungsanspruch, lässt aber die Vergütungsvereinbarung unberührt (vgl. Rn. 22). Eine bestimmte Höhe von Sonderzahlungen sieht das Mindestlohngesetz nicht vor.
-
-
+3. Die Klägerin hat keinen Anspruch auf erhöhte Jahressonderzahlungen. Diese sind nicht auf der Grundlage des aktuellen Mindestlohns zu berechnen. Nach § 4 Arbeitsvertrag betragen Urlaubs- und Weihnachtsgeld jeweils 50 % des „vereinbarten Entgelts“ bzw. des „vereinbarten Lohns“. Das Landesarbeitsgericht ist deshalb zutreffend davon ausgegangen, die Berechnung richte sich nach der in § 3 Arbeitsvertrag bestimmten Vergütung. Der Wortlaut der Vereinbarung lässt keinen anderen Schluss zu. Das Mindestlohngesetz hat daran nichts geändert. Der gesetzliche Mindestlohn tritt neben den arbeits- bzw. tarifvertraglichen Vergütungsanspruch, lässt aber die Vergütungsvereinbarung unberührt (vgl. Rn. 22). Eine bestimmte Höhe von Sonderzahlungen sieht das Mindestlohngesetz nicht vor.
 
 35
 
-4. Die Klägerin kann keine höheren als die arbeitsvertraglich vereinbarten Zuschläge für Überstunden, Sonn- und Feiertagsarbeit verlangen. Diese sind nicht auf der Grundlage der in § 1 Abs. 2 Satz 1 MiLoG bestimmten 8,50 Euro, sondern des vertraglich vereinbarten Bruttostundenentgelts zu berechnen.
-
-
+4. Die Klägerin kann keine höheren als die arbeitsvertraglich vereinbarten Zuschläge für Überstunden, Sonn- und Feiertagsarbeit verlangen. Diese sind nicht auf der Grundlage der in § 1 Abs. 2 Satz 1 MiLoG bestimmten 8,50 Euro, sondern des vertraglich vereinbarten Bruttostundenentgelts zu berechnen.
 
 36
 
-Die Zuschlagspflicht für Überstunden und Arbeit an besonderen Tagen folgt allein aus § 3 Buchst. b und c Arbeitsvertrag und knüpft an den „vereinbarten Stundenlohn“ an. Das ist der in § 3 Buchst. a Arbeitsvertrag festgehaltene Betrag. Der Wortlaut der Vereinbarung lässt nur diesen Schluss zu. Auf die Ausführungen in Rn. 34 wird verwiesen. Daran hat das Mindestlohngesetz nichts geändert.
-
-
+Die Zuschlagspflicht für Überstunden und Arbeit an besonderen Tagen folgt allein aus § 3 Buchst. b und c Arbeitsvertrag und knüpft an den „vereinbarten Stundenlohn“ an. Das ist der in § 3 Buchst. a Arbeitsvertrag festgehaltene Betrag. Der Wortlaut der Vereinbarung lässt nur diesen Schluss zu. Auf die Ausführungen in Rn. 34 wird verwiesen. Daran hat das Mindestlohngesetz nichts geändert.
 
 37
 
 5. Die Klägerin hat aufgrund des Mindestlohngesetzes keinen Anspruch auf weitere Überstundenvergütungen.
 
-
-
 38
 
-In den Monaten mit Überstundenleistung hat die Beklagte den Anspruch auf den gesetzlichen Mindestlohn durch Zahlung des Bruttomonatsgehalts, der in Zwölfteln geleisteten Jahressonderzahlungen und der jeweiligen Überstundenvergütung iHv. 8,00 Euro brutto/Stunde erfüllt.
-
-
+In den Monaten mit Überstundenleistung hat die Beklagte den Anspruch auf den gesetzlichen Mindestlohn durch Zahlung des Bruttomonatsgehalts, der in Zwölfteln geleisteten Jahressonderzahlungen und der jeweiligen Überstundenvergütung iHv. 8,00 Euro brutto/Stunde erfüllt.
 
 39
 
-Im Februar 2015 leistete die Klägerin eine Überstunde, für die die Beklagte neben der Vergütung weitere 8,00 Euro brutto, mithin 1.515,30 Euro brutto geleistet hat. Im April 2015 erbrachte die Klägerin vier Überstunden, für die sie neben der Vergütung weitere 32,00 Euro brutto, mithin 1.539,30 Euro brutto erhalten hat. Im Juni 2015 leistete die Klägerin 4,5 Überstunden, für die die Beklagte neben der Vergütung weitere 36,00 Euro brutto, mithin 1.543,30 Euro brutto geleistet hat. Die Klägerin hat in keinem der Fälle vorgetragen, sie habe über die damit jedenfalls in Höhe des gesetzlichen Mindestlohns abgegoltenen 178,27 bzw. 181,09 bzw. 181,56 Arbeitsstunden im Monat weitere Arbeit erbracht.
-
-
+Im Februar 2015 leistete die Klägerin eine Überstunde, für die die Beklagte neben der Vergütung weitere 8,00 Euro brutto, mithin 1.515,30 Euro brutto geleistet hat. Im April 2015 erbrachte die Klägerin vier Überstunden, für die sie neben der Vergütung weitere 32,00 Euro brutto, mithin 1.539,30 Euro brutto erhalten hat. Im Juni 2015 leistete die Klägerin 4,5 Überstunden, für die die Beklagte neben der Vergütung weitere 36,00 Euro brutto, mithin 1.543,30 Euro brutto geleistet hat. Die Klägerin hat in keinem der Fälle vorgetragen, sie habe über die damit jedenfalls in Höhe des gesetzlichen Mindestlohns abgegoltenen 178,27 bzw. 181,09 bzw. 181,56 Arbeitsstunden im Monat weitere Arbeit erbracht.
 
 40
 
-6. Der von der Klägerin geltend gemachte Anspruch auf Verzugszinsen wegen verspäteter Jahressonderzahlungen besteht nicht. Das Landesarbeitsgericht hat zutreffend angenommen, Ansprüche auf Verzugszinsen nach § 288 Abs. 1, § 286 Abs. 2 Nr. 1 BGB wegen nicht rechtzeitiger Leistung der Jahressonderzahlungen bestünden nicht. Die Regelung der Fälligkeit der BV Mindestlohn mit jeweils 1/12 für jeden Kalendermonat verdrängt die arbeitsvertragliche Fälligkeitsvereinbarung.
-
-
+6. Der von der Klägerin geltend gemachte Anspruch auf Verzugszinsen wegen verspäteter Jahressonderzahlungen besteht nicht. Das Landesarbeitsgericht hat zutreffend angenommen, Ansprüche auf Verzugszinsen nach § 288 Abs. 1, § 286 Abs. 2 Nr. 1 BGB wegen nicht rechtzeitiger Leistung der Jahressonderzahlungen bestünden nicht. Die Regelung der Fälligkeit der BV Mindestlohn mit jeweils 1/12 für jeden Kalendermonat verdrängt die arbeitsvertragliche Fälligkeitsvereinbarung.
 
 41
 
-a) Die von der Klägerin erhobenen Rügen gegen die formelle Wirksamkeit der BV Mindestlohn greifen nicht durch.
-
-
+a) Die von der Klägerin erhobenen Rügen gegen die formelle Wirksamkeit der BV Mindestlohn greifen nicht durch.
 
 42
 
-aa) Die Rüge, das Landesarbeitsgericht habe das Bestreiten eines wirksamen Betriebsratsbeschlusses übergangen, ist unzulässig. Der pauschale Hinweis auf ein Bestreiten genügt den Anforderungen an eine Gehörsrüge nicht. Darüber hinaus brauchen die Gerichte nicht jedes Vorbringen in den Gründen der Entscheidung ausdrücklich zu behandeln (vgl. BVerfG 14. März 2013 – 1 BvR 1457/12 – Rn. 10). Die Klägerin hat keine besonderen Umstände deutlich gemacht, wonach das Landesarbeitsgericht ihr Vorbringen nicht zur Kenntnis genommen oder nicht erwogen haben soll. Tatsächlich setzt sich das Landesarbeitsgericht mit dem streitigen Thema auseinander, hält das Bestreiten der Klägerin aber nicht mehr für erheblich.
-
-
+aa) Die Rüge, das Landesarbeitsgericht habe das Bestreiten eines wirksamen Betriebsratsbeschlusses übergangen, ist unzulässig. Der pauschale Hinweis auf ein Bestreiten genügt den Anforderungen an eine Gehörsrüge nicht. Darüber hinaus brauchen die Gerichte nicht jedes Vorbringen in den Gründen der Entscheidung ausdrücklich zu behandeln (vgl. BVerfG 14. März 2013 – 1 BvR 1457/12 – Rn. 10). Die Klägerin hat keine besonderen Umstände deutlich gemacht, wonach das Landesarbeitsgericht ihr Vorbringen nicht zur Kenntnis genommen oder nicht erwogen haben soll. Tatsächlich setzt sich das Landesarbeitsgericht mit dem streitigen Thema auseinander, hält das Bestreiten der Klägerin aber nicht mehr für erheblich.
 
 43
 
-bb) Die Rüge, der angebotene Zeugenbeweis sei nicht erhoben worden, ist ebenfalls unzulässig, denn ihre Begründung entspricht nicht den gesetzlichen Anforderungen. Allein die Rüge, ein Beweis sei nicht erhoben worden, ist unzureichend, wenn die Klägerin – wie hier – nicht vorgetragen hat, wo und bei welcher Gelegenheit sie ein den Anforderungen des § 373 ZPO entsprechendes Beweisangebot gemacht habe (vgl. BAG 18. Oktober 2000 – 2 AZR 380/99 – zu II 2 b cc (3) der Gründe, BAGE 96, 123).
-
-
+bb) Die Rüge, der angebotene Zeugenbeweis sei nicht erhoben worden, ist ebenfalls unzulässig, denn ihre Begründung entspricht nicht den gesetzlichen Anforderungen. Allein die Rüge, ein Beweis sei nicht erhoben worden, ist unzureichend, wenn die Klägerin – wie hier – nicht vorgetragen hat, wo und bei welcher Gelegenheit sie ein den Anforderungen des § 373 ZPO entsprechendes Beweisangebot gemacht habe (vgl. BAG 18. Oktober 2000 – 2 AZR 380/99 – zu II 2 b cc (3) der Gründe, BAGE 96, 123).
 
 44
 
-cc) Die Würdigung der Beschlussfassung des Betriebsrats durch das Landesarbeitsgericht verletzt nicht § 286 ZPO. Danach haben die Tatsacheninstanzen unter Berücksichtigung des gesamten Inhalts der Verhandlung und des Ergebnisses einer ggf. durchgeführten Beweisaufnahme nach ihrer freien Überzeugung darüber zu befinden, ob sie eine tatsächliche Behauptung für wahr erachten oder nicht. Die Würdigung muss vollständig, widerspruchsfrei und umfassend sein. Mögliche Zweifel müssen überwunden, brauchen aber nicht völlig ausgeschlossen zu werden (vgl. BAG 16. Juli 2015 – 2 AZR 85/15 – Rn. 35 mwN). Revisionsrechtlich ist diese Würdigung allein daraufhin zu überprüfen, ob alle Umstände vollständig berücksichtigt und nicht Denk- und Erfahrungsgrundsätze verletzt wurden.Gemessen daran hat das Landesarbeitsgericht § 286 ZPO nicht verletzt. Es hat, basierend auf dem Beklagtenvortrag zur Beschlussfassung des Betriebsrats, seine Überzeugungsbildung ausreichend dargelegt. Das Berufungsgericht durfte das weitere, lediglich pauschale Bestreiten der Klägerin für unerheblich halten.
-
-
+cc) Die Würdigung der Beschlussfassung des Betriebsrats durch das Landesarbeitsgericht verletzt nicht § 286 ZPO. Danach haben die Tatsacheninstanzen unter Berücksichtigung des gesamten Inhalts der Verhandlung und des Ergebnisses einer ggf. durchgeführten Beweisaufnahme nach ihrer freien Überzeugung darüber zu befinden, ob sie eine tatsächliche Behauptung für wahr erachten oder nicht. Die Würdigung muss vollständig, widerspruchsfrei und umfassend sein. Mögliche Zweifel müssen überwunden, brauchen aber nicht völlig ausgeschlossen zu werden (vgl. BAG 16. Juli 2015 – 2 AZR 85/15 – Rn. 35 mwN). Revisionsrechtlich ist diese Würdigung allein daraufhin zu überprüfen, ob alle Umstände vollständig berücksichtigt und nicht Denk- und Erfahrungsgrundsätze verletzt wurden.Gemessen daran hat das Landesarbeitsgericht § 286 ZPO nicht verletzt. Es hat, basierend auf dem Beklagtenvortrag zur Beschlussfassung des Betriebsrats, seine Überzeugungsbildung ausreichend dargelegt. Das Berufungsgericht durfte das weitere, lediglich pauschale Bestreiten der Klägerin für unerheblich halten.
 
 45
 
-dd) Schließlich hat das Landesarbeitsgericht im Einklang mit der Rechtsprechung des Bundesarbeitsgerichts einen Verstoß gegen § 29 Abs. 2 Satz 3 BetrVG verneint. Nach dieser Bestimmung hat der Vorsitzende die Mitglieder des Betriebsrats zu den Sitzungen rechtzeitig unter Mitteilung der Tagesordnung zu laden. Für ein verhindertes Betriebsratsmitglied hat er nach § 29 Abs. 2 Satz 6 BetrVG das Ersatzmitglied zu laden. Die Einhaltung dieser Vorschriften ist wesentlich für die Wirksamkeit eines in der Sitzung gefassten Beschlusses. Eine mangels Übermittlung der Tagesordnung verfahrensfehlerhafte Ladung zu einer Betriebsratssitzung kann allerdings durch die im Übrigen ordnungsgemäß geladenen Mitglieder und Ersatzmitglieder des Betriebsrats in einer Betriebsratssitzung geheilt werden, wenn dieser beschlussfähig iSd. § 33 Abs. 2 BetrVG ist und die Anwesenden einstimmig beschließen, über einen Regelungsgegenstand zu beraten und abzustimmen. Nicht erforderlich ist, dass an dieser Sitzung alle Betriebsratsmitglieder teilnehmen (vgl. BAG 4. November 2015 – 7 ABR 61/13 – Rn. 32 mwN; 15. April 2014 – 1 ABR 2/13 (B) – Rn. 30, BAGE 148, 26).
-
-
+dd) Schließlich hat das Landesarbeitsgericht im Einklang mit der Rechtsprechung des Bundesarbeitsgerichts einen Verstoß gegen § 29 Abs. 2 Satz 3 BetrVG verneint. Nach dieser Bestimmung hat der Vorsitzende die Mitglieder des Betriebsrats zu den Sitzungen rechtzeitig unter Mitteilung der Tagesordnung zu laden. Für ein verhindertes Betriebsratsmitglied hat er nach § 29 Abs. 2 Satz 6 BetrVG das Ersatzmitglied zu laden. Die Einhaltung dieser Vorschriften ist wesentlich für die Wirksamkeit eines in der Sitzung gefassten Beschlusses. Eine mangels Übermittlung der Tagesordnung verfahrensfehlerhafte Ladung zu einer Betriebsratssitzung kann allerdings durch die im Übrigen ordnungsgemäß geladenen Mitglieder und Ersatzmitglieder des Betriebsrats in einer Betriebsratssitzung geheilt werden, wenn dieser beschlussfähig iSd. § 33 Abs. 2 BetrVG ist und die Anwesenden einstimmig beschließen, über einen Regelungsgegenstand zu beraten und abzustimmen. Nicht erforderlich ist, dass an dieser Sitzung alle Betriebsratsmitglieder teilnehmen (vgl. BAG 4. November 2015 – 7 ABR 61/13 – Rn. 32 mwN; 15. April 2014 – 1 ABR 2/13 (B) – Rn. 30, BAGE 148, 26).
 
 46
 
-b) Die BV Mindestlohn ist auch materiell wirksam.
-
-
+b) Die BV Mindestlohn ist auch materiell wirksam.
 
 47
 
-aa) Die Regelungssperre des § 77 Abs. 3 Satz 1 BetrVG greift nicht, denn es handelt sich um eine Angelegenheit, die nach § 87 Abs. 1 BetrVG der erzwingbaren Mitbestimmung des Betriebsrats unterliegt (BAG GS 3. Dezember 1991 – GS 2/90 – zu C I 4 der Gründe, BAGE 69, 134; BAG 17. Mai 2011 – 1 AZR 473/09 – Rn. 30, BAGE 138 ,68).
-
-
+aa) Die Regelungssperre des § 77 Abs. 3 Satz 1 BetrVG greift nicht, denn es handelt sich um eine Angelegenheit, die nach § 87 Abs. 1 BetrVG der erzwingbaren Mitbestimmung des Betriebsrats unterliegt (BAG GS 3. Dezember 1991 – GS 2/90 – zu C I 4 der Gründe, BAGE 69, 134; BAG 17. Mai 2011 – 1 AZR 473/09 – Rn. 30, BAGE 138 ,68).
 
 48
 
-Es liegt ein Fall der erzwingbaren Mitbestimmung vor. Die BV Mindestlohn beinhaltet eine Fälligkeitsbestimmung. Fälligkeit bezeichnet bei (Arbeits-)Vergütung den Zeitpunkt, wann diese zu entrichten ist (vgl. § 614 BGB). Das Mitbestimmungsrecht des Betriebsrats nach § 87 Abs. 1 Nr. 4 BetrVG erfasst die Regelung des Zeitpunkts, zu dem die Arbeitsvergütung zu zahlen ist (vgl. BAG 22. Juli 2014 – 1 ABR 96/12 – Rn. 12, BAGE 148, 341). Eine die Beklagte bindende tarifliche Regelung besteht nicht.
-
-
+Es liegt ein Fall der erzwingbaren Mitbestimmung vor. Die BV Mindestlohn beinhaltet eine Fälligkeitsbestimmung. Fälligkeit bezeichnet bei (Arbeits-)Vergütung den Zeitpunkt, wann diese zu entrichten ist (vgl. § 614 BGB). Das Mitbestimmungsrecht des Betriebsrats nach § 87 Abs. 1 Nr. 4 BetrVG erfasst die Regelung des Zeitpunkts, zu dem die Arbeitsvergütung zu zahlen ist (vgl. BAG 22. Juli 2014 – 1 ABR 96/12 – Rn. 12, BAGE 148, 341). Eine die Beklagte bindende tarifliche Regelung besteht nicht.
 
 49
 
-bb) Die arbeitsvertragliche Fälligkeitsregelung wird durch die der BV Mindestlohn verdrängt, denn sie ist betriebsvereinbarungsoffen.
-
-
+bb) Die arbeitsvertragliche Fälligkeitsregelung wird durch die der BV Mindestlohn verdrängt, denn sie ist betriebsvereinbarungsoffen.
 
 50
 
-Nach den Feststellungen des Landesarbeitsgerichts (§ 559 Abs. 2 ZPO) handelt es sich bei den arbeitsvertraglichen Regelungen um Allgemeine Geschäftsbedingungen iSd. § 305 Abs. 1 Satz 1 BGB. Die hiergegen erhobene Gehörsrüge der Klägerin genügt nicht den gesetzlichen Anforderungen. Die Klägerin hat nicht konkret vortragen, welcher Vortrag übergangen sein soll (vgl. BAG 6. Januar 2004 – 9 AZR 680/02 – Rn. 36, BAGE 109, 145).
-
-
+Nach den Feststellungen des Landesarbeitsgerichts (§ 559 Abs. 2 ZPO) handelt es sich bei den arbeitsvertraglichen Regelungen um Allgemeine Geschäftsbedingungen iSd. § 305 Abs. 1 Satz 1 BGB. Die hiergegen erhobene Gehörsrüge der Klägerin genügt nicht den gesetzlichen Anforderungen. Die Klägerin hat nicht konkret vortragen, welcher Vortrag übergangen sein soll (vgl. BAG 6. Januar 2004 – 9 AZR 680/02 – Rn. 36, BAGE 109, 145).
 
 51
 
-Allgemeine Geschäftsbedingungen sind nach ihrem objektiven Inhalt und typischen Sinn einheitlich so auszulegen, wie sie von verständigen und redlichen Vertragspartnern unter Abwägung der Interessen der normalerweise beteiligten Verkehrskreise verstanden werden, wobei die Verständnismöglichkeiten des durchschnittlichen Vertragspartners des Verwenders zugrunde zu legen sind. Dabei unterliegt die Auslegung der uneingeschränkten Überprüfung durch das Revisionsgericht (vgl. BAG 17. April 2013 – 10 AZR 281/12 – Rn. 12; 19. August 2015 – 5 AZR 450/14 – Rn. 14).
-
-
+Allgemeine Geschäftsbedingungen sind nach ihrem objektiven Inhalt und typischen Sinn einheitlich so auszulegen, wie sie von verständigen und redlichen Vertragspartnern unter Abwägung der Interessen der normalerweise beteiligten Verkehrskreise verstanden werden, wobei die Verständnismöglichkeiten des durchschnittlichen Vertragspartners des Verwenders zugrunde zu legen sind. Dabei unterliegt die Auslegung der uneingeschränkten Überprüfung durch das Revisionsgericht (vgl. BAG 17. April 2013 – 10 AZR 281/12 – Rn. 12; 19. August 2015 – 5 AZR 450/14 – Rn. 14).
 
 52
 
-Die Arbeitsvertragsparteien können ihre vertraglichen Absprachen dahingehend gestalten, dass sie einer Abänderung durch betriebliche Normen unterliegen. Das kann ausdrücklich oder bei entsprechenden Begleitumständen konkludent erfolgen und ist nicht nur bei betrieblichen Einheitsregelungen und Gesamtzusagen möglich, sondern auch bei einzelvertraglichen Abreden (vgl. BAG 17. Februar 2015 – 1 AZR 599/13 – Rn. 27). Eine konkludente Vereinbarung darf angenommen werden, wenn der Vertragsgegenstand in Allgemeinen Geschäftsbedingungen enthalten ist und einen kollektiven Bezug hat. Mit der Verwendung von Allgemeinen Geschäftsbedingungen macht der Arbeitgeber für den Arbeitnehmer erkennbar deutlich, dass im Betrieb einheitliche Vertragsbedingungen gelten sollen. Eine betriebsvereinbarungsfeste Gestaltung der Arbeitsbedingungen stünde dem entgegen. Da Allgemeine Geschäftsbedingungen ebenso wie Bestimmungen in einer Betriebsvereinbarung auf eine Vereinheitlichung der Regelungsgegenstände gerichtet sind, kann aus Sicht eines verständigen und redlichen Arbeitnehmers nicht zweifelhaft sein, dass es sich bei den vom Arbeitgeber gestellten Arbeitsbedingungen um solche handelt, die einer Änderung durch Betriebsvereinbarung zugänglich sind. Etwas anderes gilt nur dann, wenn Arbeitgeber und Arbeitnehmer ausdrücklich Vertragsbedingungen vereinbaren, die unabhängig von einer für den Betrieb geltenden normativen Regelung Anwendung finden sollen (vgl. BAG 5. März 2013 – 1 AZR 417/12 – Rn. 60).
-
-
+Die Arbeitsvertragsparteien können ihre vertraglichen Absprachen dahingehend gestalten, dass sie einer Abänderung durch betriebliche Normen unterliegen. Das kann ausdrücklich oder bei entsprechenden Begleitumständen konkludent erfolgen und ist nicht nur bei betrieblichen Einheitsregelungen und Gesamtzusagen möglich, sondern auch bei einzelvertraglichen Abreden (vgl. BAG 17. Februar 2015 – 1 AZR 599/13 – Rn. 27). Eine konkludente Vereinbarung darf angenommen werden, wenn der Vertragsgegenstand in Allgemeinen Geschäftsbedingungen enthalten ist und einen kollektiven Bezug hat. Mit der Verwendung von Allgemeinen Geschäftsbedingungen macht der Arbeitgeber für den Arbeitnehmer erkennbar deutlich, dass im Betrieb einheitliche Vertragsbedingungen gelten sollen. Eine betriebsvereinbarungsfeste Gestaltung der Arbeitsbedingungen stünde dem entgegen. Da Allgemeine Geschäftsbedingungen ebenso wie Bestimmungen in einer Betriebsvereinbarung auf eine Vereinheitlichung der Regelungsgegenstände gerichtet sind, kann aus Sicht eines verständigen und redlichen Arbeitnehmers nicht zweifelhaft sein, dass es sich bei den vom Arbeitgeber gestellten Arbeitsbedingungen um solche handelt, die einer Änderung durch Betriebsvereinbarung zugänglich sind. Etwas anderes gilt nur dann, wenn Arbeitgeber und Arbeitnehmer ausdrücklich Vertragsbedingungen vereinbaren, die unabhängig von einer für den Betrieb geltenden normativen Regelung Anwendung finden sollen (vgl. BAG 5. März 2013 – 1 AZR 417/12 – Rn. 60).
 
 53
 
-Danach ist die arbeitsvertragliche Fälligkeitsregelung der Jahressonderzahlungen betriebsvereinbarungsoffen ausgestaltet. Es handelt sich um von der Beklagten gestellte Allgemeine Geschäftsbedingungen mit kollektivem Bezug. Der Auszahlungszeitpunkt der Jahressonderzahlungen soll betriebseinheitlich geregelt werden. Dass der Vereinbarung der Fälligkeitsregelung in § 4 Arbeitsvertrag eine betriebsvereinbarungsfeste Individualvereinbarung zugrunde liegt, ist nicht ersichtlich.
-
-
+Danach ist die arbeitsvertragliche Fälligkeitsregelung der Jahressonderzahlungen betriebsvereinbarungsoffen ausgestaltet. Es handelt sich um von der Beklagten gestellte Allgemeine Geschäftsbedingungen mit kollektivem Bezug. Der Auszahlungszeitpunkt der Jahressonderzahlungen soll betriebseinheitlich geregelt werden. Dass der Vereinbarung der Fälligkeitsregelung in § 4 Arbeitsvertrag eine betriebsvereinbarungsfeste Individualvereinbarung zugrunde liegt, ist nicht ersichtlich.
 
 54
 
-c) Der Beklagten ist es nach Treu und Glauben (§ 242 BGB) nicht verwehrt, sich auf die Fälligkeitsregelung der BV Mindestlohn zu berufen. Ein widersprüchliches Verhalten der Beklagten liegt nicht vor. Entgegen der Revision ist § 242 BGB nicht deshalb anzuwenden, weil die Beklagte die Wirkung der BV Mindestlohn unter die Bedingung gestellt habe, dass mit sämtlichen Arbeitnehmern Änderungsverträge zustande kommen. Die BV Mindestlohn selbst enthält keine solche Bedingung. Eine außerhalb der kollektiven Vereinbarung einseitig von der Beklagten formulierte Bedingung hätte überdies keinen rechtlichen Einfluss auf den Inhalt einer zwischen den Betriebspartnern geschlossenen Betriebsvereinbarung. Gleiches gilt für die Schreiben der Beklagten vom Dezember 2014 und Januar 2015.
-
-
+c) Der Beklagten ist es nach Treu und Glauben (§ 242 BGB) nicht verwehrt, sich auf die Fälligkeitsregelung der BV Mindestlohn zu berufen. Ein widersprüchliches Verhalten der Beklagten liegt nicht vor. Entgegen der Revision ist § 242 BGB nicht deshalb anzuwenden, weil die Beklagte die Wirkung der BV Mindestlohn unter die Bedingung gestellt habe, dass mit sämtlichen Arbeitnehmern Änderungsverträge zustande kommen. Die BV Mindestlohn selbst enthält keine solche Bedingung. Eine außerhalb der kollektiven Vereinbarung einseitig von der Beklagten formulierte Bedingung hätte überdies keinen rechtlichen Einfluss auf den Inhalt einer zwischen den Betriebspartnern geschlossenen Betriebsvereinbarung. Gleiches gilt für die Schreiben der Beklagten vom Dezember 2014 und Januar 2015.
 
 55
 
-III. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.
+III. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.
 
+Müller-Glöge
 
+Biebl
 
+Volk
 
+Dombrowsky
 
-
-        
-
-
-    Müller-Glöge    
-
-
-        
-
-
-    Biebl    
-
-
-        
-
-
-    Volk    
-
-
-        
-
-
-
-
-        
-
-
-        
-
-
-    Dombrowsky    
-
-
-        
-
-
-    Mattausch    
-
-        
-        
-
-
-
-
-      
-    
-
-  
-
-
-
-  
-    
-      
-        
-           Seite drucken
-        
-      
-    
-  
-  
-    
-      
-        
-      
-      Das Bundesarbeitsgericht
-                  
-                              
-              
-                
-                  Aktuelles und Veranstaltungen                
-              
-                          
-                      
-              
-                
-                  Das Bundesarbeitsgericht                
-              
-                          
-                      
-              
-                
-                  Entscheidungen                
-              
-                          
-                      
-              
-                
-                  Ihr Besuch bei uns                
-              
-                          
-                      
-              
-                
-                  Presse                
-              
-                          
-                      
-              
-                
-                  Service                
-              
-                          
-                        
-      
-        
-          
-      
-      
-       DE
-      
-    
-      
-      
-       EN
-      
-    
-          
-        Cookie-Einstellungen
-        
-          
-            
-              
-                RSS Feeds                 
-                
-              
-            
-          
-        
-        Impressum
-Datenschutz
-Barrierefreiheit
-Inhalte
-© 2026 Das Bundesarbeitsgericht      
-    
-  
-  
-  
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Informationen
-
-Die mündlichen Verhandlungen vor dem Bundesarbeitsgericht sind öffentlich. Eine Teilnahme ist ohne Anmeldung möglich.
-Bei Besuchen von Gruppen ist eine rechtzeitige Anmeldung mit dem nachfolgenden Formular erforderlich. Die mündlichen Verhandlungen finden in der Regel von Dienstag bis Donnerstag, jeweils mit Beginn am Vormittag statt. Die Termine zu den Verhandlungen finden Sie hier.
- 
-Einzelpersonen können ohne vorherige Anmeldung an mündlichen Verhandlungen im Bundesarbeitsgericht teilnehmen. Auch hier empfehlen wir jedoch eine schriftliche Anmeldung.
- 
-Ist zu einer Sitzung eine größere Anzahl von Zuhörern oder Vertretern der Medien zu erwarten, werden Platzkarten ausgegeben. Das jeweilige Verfahren wird im Einzelfall geregelt. Bitte haben Sie Verständnis dafür, dass aufgrund der organisatorischen Gegebenheiten und der großen Nachfrage nicht alle Anfragen positiv beantwortet werden können.
- 
-Hinweise für Besucherinnen und Besucher:
- 
-Für den Zutritt zum Gebäude des Bundesarbeitsgerichts muss sich jeder Besucher ggf. mit einem gültigen Personalausweis oder Reisepass ausweisen können. Größere Gepäckstücke (Koffer/Rucksäcke) dürfen nicht in die Sitzungssäle mitgenommen werden. In Einzelfällen können Sicherheitskontrollen durchgeführt werden, die zu Wartezeiten führen können. Wird die Durchführung von Sicherheitskontrollen (Taschenkontrolle, Einsatz von Personenscanner und/oder Taschenscanner) durch Besucher verweigert, wird der Person/den Personen der Zugang zum Gebäude nicht gestattet. 
-Besucherinnen und Besucher sind Ton-, Bild- und Filmaufnahmen während der Verhandlung untersagt. In den Sitzungssälen sind Mobil-Telefone auszuschalten.
- 
-Für den Sitzungsbesuch am Bundesarbeitsgericht gibt es zwar keine gesonderte Kleiderordnung, aus Respekt vor der Rechtsprechung und angesichts der Bedeutung, die diese für die Betroffenen hat, ist es jedoch angemessen, eine offizielle und dem Anlass entsprechende Kleidung zu tragen. Dies beinhaltet auch, dass Sitzungen in den Sommermonaten nicht in kurzen Hosen, Miniröcken und Flip-Flops etc. aufgesucht werden.
- 
-Essen und Trinken sind in den Sitzungssälen nicht gestattet. Das gesamte Gebäude des Bundesarbeitsgerichts einschließlich des Innenhofes ist rauchfrei.
- 
-Bitte füllen Sie nun das nachfolgende Formular für Ihren geplanten Sitzungsbesuch aus.
-
-Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet. 
- 
-Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer Datenschutzerklärung.
-
-
-
-Felder, die mit * gekennzeichnet sind, sind Pflichtfelder.
-
-
-Ihre Kontaktdaten
-
-
-
-
-Vorname
-
-
-
-Nachname
-
-
-
-E-Mail-Adresse
-
-
-
-Telefonnummer
-
-
-
-Organisation
-
-
-
-Anzahl der Teilnehmer (max. 30)
-
-
-
-Betreff
-
-
-
-
-
-
-Sitzungsinformationen
-
-
-
-
-Senat– Bitte auswählen –9. Senat8. Senat7. Senat6. Senat5. Senat4. Senat3. Senat2. Senat10. Senat1. Senat
-
-
-
-Tag des Besuchs
-
-
-
-Aktenzeichen
-
-
-
-Weitere Kommentare
-
-450
-Zeichen übrig
-
-
-
-
-Please leave this field empty.
-
-
-  Ja, ich habe die Datenschutzerklärung zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten. *
-
-
-
-
-
-
-
-
-
-
-  
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Informationen
-Mit dem nachfolgenden Formular bitten wir Medienvertreter, sich für einen Sitzungstermin beim Bundesarbeitsgericht anzumelden.
-   
-Fotos- und Filmaufnahmen im Sitzungssaal sind nur durch Medienvertreter und in der Regel nur vor Einzug des Senats gestattet. Eine gesonderte Akkreditierung ist hierfür nicht erforderlich. Wir bitten bei Interesse dennoch um einen Hinweis mit folgendem Formular.
- 
-Ist die Aufnahme der Verkündung einer Entscheidung in Bild und Ton zugelassen (§ 169 Abs. 3 Satz 1 GVG iVm. § 72 Abs. 6 ArbGG) wird dies unter Sitzungstage gesondert bekannt gegeben. Mit der Veröffentlichung beginnt das Akkreditierungsverfahren.
- 
-Für Fernseh- und Filmaufnahmen von der Entscheidungsverkündung werden ggf. Medienpools gebildet. Zugelassen werden zwei Fernseh-/Filmteams (ein öffentlich-rechtlicher und ein privat-rechtlicher Sender mit jeweils einer Kamera). Die Poolführer verpflichten sich, gefertigte Fernseh- und Filmaufnahmen anderen Fernsehsendern bzw. Film-Aufnehmenden, die sich nicht erfolgreich akkreditiert haben, auf Anfrage unverzüglich zur Verfügung zu stellen. Ein Medienvertreter, der die erforderlichen technischen Voraussetzungen nicht erfüllt, kann nicht Poolführer werden. Die Bereitschaft zur Übernahme einer Poolführerschaft ist mit dem Akkreditierungsgesuch ausdrücklich zu erklären. Die Vergabe der Poolführerschaft erfolgt nach der Reihenfolge des Eingangs der Akkreditierung; bei etwaiger Zeitgleichheit entscheidet das Los.
-
-Zugelassen sind höchstens zwei TV- bzw. Filmkameras. Fernseh- und Filmaufnahmen dürfen nur von den zugewiesenen Plätzen aus gefertigt werden. Tonaufnahmen erfolgen über einen zentralen Tonabnahmepunkt. Während der Entscheidungsverkündung sind die Kameras an ihren Plätzen zu belassen und ausschließlich auf die Richterbank zu richten. Kameraschwenks sind nur innerhalb der seitlichen Begrenzungen der Richterbank zulässig. Auflagen des Gerichts sind einzuhalten. Anweisungen der Wachtmeister ist Folge zu leisten.
-
-Anregungen für eine Zulassung können Sie mit dem nachfolgenden Formular an die Pressestelle richten. Nach 10:00 Uhr des Vortags der Sitzung kann eine Beschlussfassung und Akkreditierung nicht mehr gewährleistet werden.
-
-Für Interviews mit den Prozessbeteiligten steht das Foyer vor dem Sitzungssaal zur Verfügung. 
- 
-Wir weisen darauf hin, dass eine Entscheidung in der Sache nicht notwendig noch am Tag der mündlichen Verhandlung verkündet wird. Der erkennende Senat beraumt in diesem Fall einen gesonderten Verkündungstermin an.
- 
-Ob die angegebenen Termine bestehen geblieben sind, erfragen Sie bitte bei der jeweiligen Senatsgeschäftsstelle des Bundesarbeitsgerichts oder bei der Pressestelle.
- 
-Wenn Sie das nachfolgende Formular ausfüllen, helfen Sie uns einzuschätzen, wie groß das öffentliche Interesse an einem Verhandlungstermin ist. So können wir versuchen, einen Sitzungssaal auszuwählen, in dem nach Möglichkeit die gesamte interessierte Öffentlichkeit Platz findet.
- 
-Eine Platzreservierung wird nicht vorgenommen.
-
-Die nachfolgenden Angaben sind bis auf Namen, Vornamen und E-Mail-Adresse freiwillig. Eine Rückmeldung zu Ihrem Anliegen kann nur erfolgen, wenn Sie uns zumindest eine Möglichkeit nennen, wie wir Sie erreichen können. Um eine verzögerte Bearbeitung zu vermeiden, empfehlen wir Ihnen eine vollständige Angabe Ihrer Daten. Wir weisen jedoch ausdrücklich darauf hin, dass die nicht entsprechend gekennzeichneten Felder keine Pflichtangaben sind. Soweit Sie die Eingabemaske ausfüllen, werden Ihre Angaben zusammen mit Ihrer Nachricht an die für die Bearbeitung Ihres Anliegens zuständige Stelle weitergeleitet. 
- 
-Weitere Hinweise zum Schutz Ihrer personenbezogenen Daten nach Art. 13 und 14 DSGVO finden Sie in unserer Datenschutzerklärung.
-
-
-
-Felder, die mit * gekennzeichnet sind, sind Pflichtfelder.
-
-
-Ihre Kontaktdaten
-
-
-Vorname
-
-
-
-Nachname
-
-
-
-E-Mail-Adresse
-
-
-
-Telefonnummer
-
-
-
-Medienorganisation
-
-
-
-Anzahl der Teilnehmer
-
-
-
-
-
-
-Sitzungsinformationen
-
-
-
-
-Senat– Bitte auswählen –9. Senat8. Senat7. Senat6. Senat5. Senat4. Senat3. Senat2. Senat10. Senat1. Senat
-
-
-
-Tag des Besuchs
-
-
-
-Aktenzeichen
-
-
-
-Weitere Kommentare
-
-450
-Zeichen übrig
-
-
-
-
-Please leave this field empty.
-
-
-  Ja, ich habe die Datenschutzerklärung zur Kenntnis genommen und erteile die Einwilligung in die Erhebung und Nutzung meiner vorstehend eingegebenen Daten. *
-
-
-
-
-
-
-
-
-
-
-  
-    
-  
-  
-    
-  
-
-
-
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/bag/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-
-
-
-
-
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-//# sourceURL=wp-i18n-js-after
-
-
-
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "contact-form-7", {"translation-revision-date":"2025-05-24 10:46:16+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"This contact form is placed in the wrong place.":["Dieses Kontaktformular wurde an der falschen Stelle platziert."],"Error:":["Fehler:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
-//# sourceURL=contact-form-7-js-translations
-
-
-var wpcf7 = {
-    "api": {
-        "root": "https:\/\/www.bundesarbeitsgericht.de\/wp-json\/",
-        "namespace": "contact-form-7\/v1"
-    }
-};
-//# sourceURL=contact-form-7-js-before
-
-
-
-
-var wpcf7cf_global_settings = {"ajaxurl":"https://www.bundesarbeitsgericht.de/wp-admin/admin-ajax.php"};
-//# sourceURL=wpcf7cf-scripts-js-extra
-
-
-
-var moove_frontend_gdpr_scripts = {"ajaxurl":"https://www.bundesarbeitsgericht.de/wp-admin/admin-ajax.php","post_id":"1152428","plugin_dir":"https://www.bundesarbeitsgericht.de/wp-content/plugins/gdpr-cookie-compliance","show_icons":"all","is_page":"","ajax_cookie_removal":"false","strict_init":"2","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"1","hide_save_btn":"false","current_user":"0","cookie_expiration":"30","script_delay":"100","close_btn_action":"1","close_btn_rdr":"","scripts_defined":"{\"cache\":true,\"header\":\"\",\"body\":\"\",\"footer\":\"\",\"thirdparty\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"},\"advanced\":{\"header\":\"\",\"body\":\"\",\"footer\":\"\"}}","gdpr_scor":"true","wp_lang":"_de","wp_consent_api":"false"};
-//# sourceURL=moove_gdpr_frontend-js-extra
-
-
-
-var gdpr_consent__strict = "true"
-var gdpr_consent__thirdparty = "false"
-var gdpr_consent__advanced = "false"
-var gdpr_consent__cookies = "strict"
-//# sourceURL=moove_gdpr_frontend-js-after
-
-
-    
-  
-  
-  
-    
-            
-        
-          
-
-  
-    Datenschutzübersicht
-  
-
-
-  
-    
-      Notwendige Cookies
-    
-  
-
-
-
-
-        
-      
-      
-    
-      
-           
-            
-              Datenschutzübersicht
-            
-            
-
-  
-
-          
-          
-          
-
-            
-              
-
-    
-  	Diese Website verwendet Cookies, um die Online-Nutzung zu verbessern. Cookies die als notwendig kategorisiert sind, werden in Ihrem Browser gespeichert, da sie für das Funktionieren der Grundfunktionen der Website unerlässlich sind.
-Weitere Informationen: Datenschutzerklärung
-  	  
-  
-
-
-              
-  
-    Notwendige Cookies
-    
-      Notwendige Cookies sind für das einwandfreie Funktionieren der Website absolut notwendig. Diese Kategorie umfasst nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten (z. B. für die "Hoher Kontrast"-Einstellung).
-Diese Cookies speichern keine persönlichen Informationen.
-      
-        
-          
-                
-              Cookies aktivieren oder deaktivieren        
-              
-              
-                
-                  aktiviert
-                  deaktiviert
-                
-              
-            
-          
-          
-        
-        
-      
-      
-                                              
-    
-    
-  
-  
-              
-              
-              
-            
-            
-          
-          
-          
-            
-	
-            
-
-  
-          
-          
-      
-      
-
-      
-
-    
-    
-  
-  
-  
-
-
-
-
+Mattausch

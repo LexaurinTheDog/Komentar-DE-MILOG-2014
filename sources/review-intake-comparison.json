@@ -1,0 +1,32 @@
+{
+  "intake_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-milog.md",
+  "intake_sha256": "9c059997e18c7ea62aed3d5bec9c151815214ccb4669020333bebe77673d8817",
+  "intake_builddate": "20260630215549",
+  "xml_builddate": "20260630215549",
+  "normalized_unit_matches": {
+    "p1": true,
+    "p2": true,
+    "p3": true,
+    "p4": true,
+    "p5": true,
+    "p6": true,
+    "p7": true,
+    "p8": true,
+    "p9": true,
+    "p10": true,
+    "p11": true,
+    "p12": true,
+    "p13": true,
+    "p14": true,
+    "p15": true,
+    "p16": true,
+    "p17": true,
+    "p18": true,
+    "p19": true,
+    "p20": true,
+    "p21": true,
+    "p22": true,
+    "p23": true,
+    "p24": true
+  }
+}
